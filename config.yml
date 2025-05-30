@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://essencias.github.io"
+title: Essências de Gabriel Dall'Alba
 theme: PaperMod
 
 enableInlineShortcodes: true
