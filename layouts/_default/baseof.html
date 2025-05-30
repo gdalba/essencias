@@ -1,4 +1,74 @@
-{{- if lt hugo.Version "0.147.2" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{- partial "head.html" . }}
+</head>
+<body class="{{ if .IsHome }}homepage{{ else }}{{ if eq .Kind "page" }}single{{ else }}list{{ end }}{{ end }}" id="top">
+    {{- if .IsHome }}
+    <!-- Only show language switcher on homepage -->
+    <header class="header home-header">
+        <nav class="nav">
+            <div class="logo">
+                <div class="logo-switches">
+                    <!-- Get all site translations -->
+                    <ul class="lang-switch">
+                        {{ range .Site.Home.AllTranslations }}
+                        {{ if eq $.Site.Language.Lang .Language.Lang }}
+                        <!-- Current language (no link needed) -->
+                        <li>
+                            <span class="active">{{ .Language.LanguageName }}</span>
+                        </li>
+                        {{ else }}
+                        <!-- Other languages -->
+                        <li>
+                            <a href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+                                {{ .Language.LanguageName }}
+                            </a>
+                        </li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    {{- else }}
+    <!-- Show full header on other pages -->
+    {{- partialCached "header.html" . .Page -}}
+    {{- end }}
+    
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    
+    {{ if not .Site.Params.hideFooter }}
+    {{- partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") -}}
+    {{ end }}
+</body>
+</html>
+
+
+<!-- MODIFIED -- V1 -- WORKS -- UNCOMMENT TO REVERT IF ELSE BREAKS-->
+<!-- <!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{- partial "head.html" . }}
+</head>
+<body class="{{ if .IsHome }}homepage{{ else }}{{ if eq .Kind "page" }}single{{ else }}list{{ end }}{{ end }}" id="top">
+    {{- partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    
+    {{ if not .Site.Params.hideFooter }}
+    {{- partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") -}}
+    {{ end }}
+</body>
+</html> -->
+
+
+<!-- ORIGINAL - REVERT TO DEFAULT - UNCOMMENT IF ELSE BREAKS-->
+<!-- {{- if lt hugo.Version "0.147.2" }}
 {{- errorf "=> hugo v0.147.2 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}
 
@@ -25,4 +95,4 @@
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
-</html>
+</html> -->

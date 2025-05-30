@@ -1,6 +1,15 @@
+#------------------------------------
+# a few things i learned:
+# 1 - referencing /poetry calls for /en/poetry in english, instead of having to specify en/poetry (which would call en/en/poetry)
+# this means that the content structure pulls directory tree as is ??
+# I will leave this here because I am so stupid it hurts, it does need /pt/ navigate accurately.
+#------------------------------------
 baseURL: "https://gdalba.github.io/essencias/"
 title: Essências de Gabriel Dall'Alba
 theme: PaperMod
+
+defaultContentLanguage: pt
+defaultContentLanguageInSubdir: true
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -10,21 +19,90 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
-    main:
+languages:
+  pt:
+    languageName: "Português"
+    weight: 1
+    title: "Essências de Gabriel Dall'Alba"
+    params:
+      description: "Este site hospeda as poesias, reflexões filosóficas e informações sobre Gabriel Dall'Alba."
+      author: Gabriel Dall'Alba
+      profileMode:
+        enabled: true
+        title: Essências
+        subtitle: |
+            <div style="font-size: 1.2rem !important; line-height: 1.8 !important; text-align: center !important;">
+            Quero compartilhar minha poesia com um mundo que não toma forma através de pessoas.<br><br>
+            
+            Este espaço não é uma vitrine, é um abrigo.<br>
+            
+            Um abrigo para uma voz que desejou muito ser ouvida, envergonhada de tal desejo tão narcisista.<br>
+            </div>
+        imageUrl: "Screenshot 2023-10-15 205624.png"
+        imageWidth: 160
+        imageHeight: 160
+        imageTitle: Gabriel Dall'Alba
+        buttons:
+          - name: Poesia
+            url: poesias/
+          - name: Filosofia  
+            url: filosofia/
+          - name: Sobre
+            url: sobre/
+    menu:
+      main:
         - name: Poesia
-          url: poesia/
+          url: poesias/
           weight: 5 
         - name: Filosofia
           url: filosofia/
+          weight: 10
         - name: Autor 
           url: sobre/
-          weight: 2
+          weight: 20
+
+  en:
+    languageName: "English"
+    weight: 2
+    title: "Essences by Gabriel Dall'Alba"
+    params:
+      description: "This website hosts poetry, philosophical reflections and information about Gabriel Dall'Alba."
+      author: Gabriel Dall'Alba
+      profileMode:
+        enabled: true
+        title: Essences
+        subtitle: |
+            <div style="font-size: 1.2rem !important; line-height: 1.8 !important; text-align: center !important;">
+            I want to share my poetry with a world that doesn't take shape through people.<br><br>
+            
+            This space is not a showcase, it's a shelter.<br>
+            
+            A shelter for a voice that longed to be heard, ashamed of such narcissistic desire.<br>
+            </div>
+        imageUrl: "Screenshot 2023-10-15 205624.png"
+        imageWidth: 160
+        imageHeight: 160
+        imageTitle: Gabriel Dall'Alba
+        buttons:
+          - name: Poetry
+            url: poetry/
+          - name: Philosophy  
+            url: philosophy/
+          - name: About
+            url: about/
+    menu:
+      main:
+        - name: Poetry
+          url: poetry/
+          weight: 5 
+        - name: Philosophy
+          url: philosophy/
+          weight: 10
+        - name: About 
+          url: about/
+          weight: 20
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -37,7 +115,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["poesias","poetry","filosofia","philosophy"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -45,76 +123,131 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    profileMode:
-          enabled: true
-          title: Essências
-          subtitle: |
-              <div style="font-size: 1.2rem !important; line-height: 1.8 !important; text-align: center !important;">
-              Quero compartilhar minha poesia com um mundo que não toma forma através de pessoas.<br><br>
-              
-              Este espaço não é uma vitrine, é um abrigo.<br>
-              
-              Um abrigo para uma voz que desejou muito ser ouvida, envergonhada de tal desejo tão narcisista.<br>
-              
-              Aqui se arquivam as palavras que me escaparam da alma, as poesias, as filosofias, as essências.<br>
-              
-              Talvez se torne, cedo ou tarde, um arquivo de memórias póstumas.<br>
-              
-              Mas que sirva, enquanto durar, como uma oferenda à reflexão, ao resgate do sentir, à poesia em sua forma mais crua – nascida sem ornamento, sem intenção de agradar, apenas vinda da alma.
-              </div>
-          imageUrl: "Screenshot 2023-10-15 205624.png"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: "Poesia"
-              url: poesia/
-            - name: Filosofia
-              url: filosofia/
-            - name: Autor 
-              url: sobre/
+    displayFullLangName: true
 
-    # socialIcons: UNCOMMENT IF WANT TO USE SOCIAL ICONS
-    #     - name: CV
-    #       url: cv.pdf
-    #     - name: Email
-    #       url: mailto:igelfeld@regensburg.edu
-    #     - name: Zoom
-    #       url: https://www.zoom.us/my/igelfeld
-    #     - name: Location
-    #       url: location/
-    #     - name: Office Hours
-    #       url: officehours/
-    #     - name: Google Scholar
-    #       url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-    #     - name: GitHub
-    #       url: https://github.com/pmichaillat
-    #     - name: Substack
-    #       url: https://pmichaillat.substack.com
-    #     - name: YouTube
-    #       url: https://www.youtube.com/@pmichaillat
-    #     - name: Twitter
-    #       url: https://x.com/pmichaillat
-    #     - name: Bluesky
-    #       url: https://bsky.app/profile/pmichaillat.bsky.social
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Essências de Gabriel Dall'Alba"
-      icon: favicon.ico
-      iconHeight: 18
 
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+#---------------------!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# WARNING, CODE BELOW IS FIRST VERSION IN CASE IT BREAKS
+#---------------------!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# IF EXISTING NOT WORKING, UNCOMMENT ALL
+# baseURL: "https://gdalba.github.io/essencias/"
+# title: Essências de Gabriel Dall'Alba
+# theme: PaperMod
+
+# enableInlineShortcodes: true
+# enableRobotsTXT: true
+# pagination:
+#   pagerSize: 20
+
+# taxonomies:
+#     tag: tags
+
+# menu:
+#     main:
+#         - name: Poesia
+#           url: poesia/
+#           weight: 5 
+#         - name: Filosofia
+#           url: filosofia/
+#         - name: Autor 
+#           url: sobre/
+#           weight: 2
+
+# params:
+#     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+#     author: Moritz-Maria von Igelfeld
+#     # googleAnalyticsID: "G-XXXXX"
+#     DateFormat: "January 2006"
+#     defaultTheme: light
+#     hideFooter: false
+#     disableThemeToggle: true
+#     ShowShareButtons: false
+#     ShowReadingTime: false
+#     disableSpecial1stPost: true
+#     disableAnchoredHeadings: true
+#     ShowPostNavLinks: false
+#     ShowBreadCrumbs: false
+#     ShowCodeCopyButtons: true
+#     ShowAllPagesInArchive: false
+#     MainSections: ["books","courses","papers","data"]
+#     ShowToc: false
+#     disableScrollToTop: true
+#     TocOpen: true
+#     ShowWordCount: false
+#     UseHugoToc: true
+#     comments: false
+#     math: true
+#     profileMode:
+#           enabled: true
+#           title: Essências
+#           subtitle: |
+#               <div style="font-size: 1.2rem !important; line-height: 1.8 !important; text-align: center !important;">
+#               Quero compartilhar minha poesia com um mundo que não toma forma através de pessoas.<br><br>
+              
+#               Este espaço não é uma vitrine, é um abrigo.<br>
+              
+#               Um abrigo para uma voz que desejou muito ser ouvida, envergonhada de tal desejo tão narcisista.<br>
+              
+#               Aqui se arquivam as palavras que me escaparam da alma, as poesias, as filosofias, as essências.<br>
+              
+#               Talvez se torne, cedo ou tarde, um arquivo de memórias póstumas.<br>
+              
+#               Mas que sirva, enquanto durar, como uma oferenda à reflexão, ao resgate do sentir, à poesia em sua forma mais crua – nascida sem ornamento, sem intenção de agradar, apenas vinda da alma.
+#               </div>
+#           imageUrl: "Screenshot 2023-10-15 205624.png"
+#           imageWidth: 160
+#           imageHeight: 160
+#           buttons:
+#             - name: "Poesia"
+#               url: poesia/
+#             - name: Filosofia
+#               url: filosofia/
+#             - name: Autor 
+#               url: sobre/
+
+#     # socialIcons: UNCOMMENT IF WANT TO USE SOCIAL ICONS
+#     #     - name: CV
+#     #       url: cv.pdf
+#     #     - name: Email
+#     #       url: mailto:igelfeld@regensburg.edu
+#     #     - name: Zoom
+#     #       url: https://www.zoom.us/my/igelfeld
+#     #     - name: Location
+#     #       url: location/
+#     #     - name: Office Hours
+#     #       url: officehours/
+#     #     - name: Google Scholar
+#     #       url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+#     #     - name: GitHub
+#     #       url: https://github.com/pmichaillat
+#     #     - name: Substack
+#     #       url: https://pmichaillat.substack.com
+#     #     - name: YouTube
+#     #       url: https://www.youtube.com/@pmichaillat
+#     #     - name: Twitter
+#     #       url: https://x.com/pmichaillat
+#     #     - name: Bluesky
+#     #       url: https://bsky.app/profile/pmichaillat.bsky.social
+
+#     assets:
+#         disableScrollBarStyle: true
+#     cover:
+#         hiddenInList: false
+#         hiddenInSingle: true
+#     label:
+#       text: "Essências de Gabriel Dall'Alba"
+#       icon: favicon.ico
+#       iconHeight: 18
+
+# markup:
+#     goldmark:
+#         renderer:
+#             unsafe: true
+#     highlight:
+#         guessSyntax: true
+#         style: autumn 
+#     tableOfContents:
+#         endLevel: 2
+#         ordered: false
+#         startLevel: 2
