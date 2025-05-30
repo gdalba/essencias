@@ -44,21 +44,21 @@ languages:
         imageTitle: Gabriel Dall'Alba
         buttons:
           - name: Poesia
-            url: poesias/
+            url: pt/poesias/
           - name: Filosofia  
-            url: filosofia/
+            url: pt/filosofia/
           - name: Sobre
-            url: sobre/
+            url: pt/sobre/
     menu:
       main:
         - name: Poesia
-          url: poesias/
+          url: pt/poesias/
           weight: 5 
         - name: Filosofia
-          url: filosofia/
+          url: pt/filosofia/
           weight: 10
         - name: Autor 
-          url: sobre/
+          url: pt/sobre/
           weight: 20
 
   en:
@@ -85,21 +85,21 @@ languages:
         imageTitle: Gabriel Dall'Alba
         buttons:
           - name: Poetry
-            url: poetry/
+            url: en/poetry/
           - name: Philosophy  
-            url: philosophy/
+            url: en/philosophy/
           - name: About
-            url: about/
+            url: en/about/
     menu:
       main:
         - name: Poetry
-          url: poetry/
+          url: en/poetry/
           weight: 5 
         - name: Philosophy
-          url: philosophy/
+          url: en/philosophy/
           weight: 10
         - name: About 
-          url: about/
+          url: en/about/
           weight: 20
 
 params:
