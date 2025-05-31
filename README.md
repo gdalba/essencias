@@ -51,7 +51,7 @@ The website will be available at http://localhost:1313/essencias/, with live rel
 
 ## Deployment
 
-The website is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the main branch. The deployment workflow is defined in main.yml.
+The website is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the main branch. The deployment workflow is defined in `hugo.yml`.
 
 ## A case of switching languages
 
