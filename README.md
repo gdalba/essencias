@@ -114,15 +114,15 @@ Obviously, pairwise at n = 2, this works well, but as n increases, the `replaceR
 
 Each category requires mappings from **every language to every other language**, which is:
 
-\[
-\text{Mappings per category} = L \times (L - 1)
-\]
+```
+L \times (L - 1)
+```
 
 So the **total number of manual mappings** is:
 
-\[
-\boxed{S \times L \times (L - 1)}
-\]
+```
+S \times L \times (L - 1)
+```
 
 ---
 
@@ -130,21 +130,21 @@ So the **total number of manual mappings** is:
 
 ### 🔹 2 Languages (L = 2), 5 categories (S = 5):
 
-\[
+```
 5 \times 2 \times 1 = 10 \text{ total mappings}
-\]
+```
 
 ### 🔹 3 Languages (L = 3), 5 categories:
 
-\[
+```
 5 \times 3 \times 2 = 30 \text{ total mappings}
-\]
+```
 
 ### 🔹 5 Languages (L = 5), 7 categories:
 
-\[
+```
 7 \times 5 \times 4 = 140 \text{ total mappings}
-\]
+```
 
 A solution must be found, because I don't want to use Hugo's native translation.
 
