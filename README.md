@@ -28,15 +28,25 @@ The website will be available at http://localhost:1313/essencias/, with live rel
 ## Project Structure
 
 `content`: All website content organized by language and section
+
 `en/`: English content
+
 `poesias/`: Portuguese poetry content
+
 `filosofia/`: Portuguese philosophy content
+
 `sobre/`: Portuguese about page
+
 `layouts`: Custom layout templates
+
 `PaperMod`: The base theme
+
 `static`: Static files (images, PDFs, etc.)
+
 `archetypes`: Templates for new content
+
 `config.yml`: Site configuration
+
 `workflows`: GitHub Actions workflow for deployment
 
 ## Deployment
@@ -77,33 +87,29 @@ I wanted to expand upon the existing template and implement different language p
 
 #### From a Portuguese link:
 
-- Step 1: Match and remove the /en/ segment that comes after /essencias/
+- Step 1: Match and remove the `/en/` segment that comes after `/essencias/`
 
-It assumes all English pages live under /essencias/en/
+It assumes all English pages live under `/essencias/en/`, this is the "namespace" for English content.
 
-This is the "namespace" for English content
+- Step 2: Translate known categories (like `/poetry/`) into their Portuguese equivalents
 
-- Step 2: Translate known slugs (like /poetry/) into their Portuguese equivalents
+`/poetry/` → `/poesias/`
 
-/poetry/ → /poesias/
+`/about/` → `/sobre/`
 
-/about/ → /sobre/
+This allows clean URL mirroring between languages.
 
-This allows clean URL mirroring between languages
+#### From an English Link:
 
-#### From an English Link
+Step 1: Insert `/en/` after `/essencias/`, but only if the page is one of those known Portuguese categories
 
-Step 1: Insert /en/ after /essencias/, but only if the page is one of those known Portuguese slugs
+The regular expression (`poesias` | `filosofia` | `...`) captures the category, `${1}` puts it back in the correct place, but now under `/en/`
 
-The regular expression (poesias|filosofia|...) captures the slug
+Step 2: Translate the category to English:
 
-`${1}` puts it back in the correct place, but now under /en/
+`/poesias/` → `/poetry/`
 
-Step 2: Translate the slug to English
-
-/poesias/ → /poetry/
-
-/filosofia/ → /philosophy/
+`/filosofia/` → `/philosophy/`
 
 #### The foolish limitation
 
@@ -114,37 +120,24 @@ Obviously, pairwise at n = 2, this works well, but as n increases, the `replaceR
 
 Each category requires mappings from **every language to every other language**, which is:
 
-```
-L \times (L - 1)
-```
-
-So the **total number of manual mappings** is:
-
-```
-S \times L \times (L - 1)
-```
+**Mappings per categories** = `L * (L - 1)`  
+**Total mappings across all categories** = `S * L * (L - 1)`
 
 ---
 
 ## 📊 Examples
 
-### 🔹 2 Languages (L = 2), 5 categories (S = 5):
+### 🔹 2 Languages (`L = 2`), 5 Categories (`S = 5`):
 
-```
-5 \times 2 \times 1 = 10 \text{ total mappings}
-```
+`5 * 2 * (2 - 1) = 10` mappings
 
-### 🔹 3 Languages (L = 3), 5 categories:
+### 🔹 3 Languages (`L = 3`), 5 Categories:
 
-```
-5 \times 3 \times 2 = 30 \text{ total mappings}
-```
+`5 * 3 * (3 - 1) = 30` mappings
 
-### 🔹 5 Languages (L = 5), 7 categories:
+### 🔹 5 Languages (`L = 5`), 7 Categories:
 
-```
-7 \times 5 \times 4 = 140 \text{ total mappings}
-```
+`7 * 5 * (5 - 1) = 140` mappings
 
 A solution must be found, because I don't want to use Hugo's native translation.
 
