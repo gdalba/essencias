@@ -37,7 +37,11 @@ languages:
             Um abrigo para uma voz que desejou muito ser ouvida, envergonhada de tal desejo tão narcisista. Aqui então se arquivam as palavras que me escaparam da alma, as poesias, as filosofias, <b>as essências</b>.<br><br>
             Talvez se torne, cedo ou tarde, um arquivo de memórias póstumas. Mas que sirva, enquanto durar, como uma oferenda à reflexão, ao resgate do sentir, à poesia em sua forma mais crua, nascida sem ornamento, sem intenção de agradar, <b>apenas vinda da alma</b>.
             </div>
-        imageUrl: "Screenshot 2023-10-15 205624.png"
+            <figure style="text-align: center; margin: 20px 0;">
+              <img src="Screenshot 2023-10-15 205624.png" alt="Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)" style="max-width: 100%; height: auto; border-radius: 5px;">
+              <figcaption style="font-style: italic; margin-top: 10px;">"A Morte do Velho" do artista Eslováquio-Húngaro László Mednyánszky (1890)</figcaption>
+            </figure>
+        imageUrl: "personal.jpg"
         imageWidth: 160
         imageHeight: 160
         imageTitle: Gabriel Dall'Alba
@@ -76,7 +80,12 @@ languages:
             A shelter for a voice that longed deeply to be heard, ashamed of such a narcissistic desire. Here, then, are archived the words that slipped from my soul — the poems, the philosophies, <b>the essences</b>.<br><br>
             Perhaps it will become, sooner or later, an archive of posthumous memories. But may it serve, while it lasts, as an offering to reflection, to the rescue of feeling, to poetry in its rawest form — born without ornament, without the intention to please, <b>only coming from the soul.</b>.
             </div>
-        imageUrl: "Screenshot 2023-10-15 205624.png"
+
+            <figure style="text-align: center; margin: 20px 0;">
+              <img src="Screenshot 2023-10-15 205624.png" alt="Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)" style="max-width: 100%; height: auto; border-radius: 5px;">
+              <figcaption style="font-style: italic; margin-top: 10px;">Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)</figcaption>
+            </figure>
+        imageUrl: "personal.jpg"
         imageWidth: 160
         imageHeight: 160
         imageTitle: Gabriel Dall'Alba
