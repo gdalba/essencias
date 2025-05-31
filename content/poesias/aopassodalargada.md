@@ -3,6 +3,9 @@ title: "Ao Passo da Largada"
 date: 2017-02-07
 draft: false
 tags: ["poesia", "saudade", "existencialismo", "partida e fim", "busca de sentido"]
+summary: "Minha caminhada toda deselegante<br>é marcada pela fina linha que me prende à penosos momentos<br>e pelo abismo cerúleo arrogante<br>que enturva meu futuro tão sangrento."
+cover:
+    image: "DALL·E 2025-05-30 18.04.32 - A surreal, poetic scene at dawn_ A solitary figure walks along a thin, translucent bridge suspended over a vast, deep blue abyss. The sky is wistful,.png"
 ---
 
 ## Ao Passo da Largada

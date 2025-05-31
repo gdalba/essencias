@@ -3,6 +3,9 @@ title: "At the Pace of the Starting Line"
 date: 2017-02-07
 draft: false
 tags: ["poetry", "longing", "existentialism", "departure and end", "search for meaning"]
+summary: "My awkward, graceless walk<br>is drawn along the thin line that binds me to painful times<br>and by the arrogant cerulean abyss<br>that clouds my future, already soaked in crimson."
+cover:
+    image: "DALL·E 2025-05-30 18.04.32 - A surreal, poetic scene at dawn_ A solitary figure walks along a thin, translucent bridge suspended over a vast, deep blue abyss. The sky is wistful,.png"
 ---
 
 ## At the Pace of the Starting Line
