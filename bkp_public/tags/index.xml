@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Essências de Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/tags/</link>
+    <description>Recent content in Tags on Essências de Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amor</title>
+      <link>http://localhost:1313/essencias/tags/amor/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/amor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juventude</title>
+      <link>http://localhost:1313/essencias/tags/juventude/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/juventude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memória</title>
+      <link>http://localhost:1313/essencias/tags/mem%C3%B3ria/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/mem%C3%B3ria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Busca De Sentido</title>
+      <link>http://localhost:1313/essencias/tags/busca-de-sentido/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/busca-de-sentido/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Existencialismo</title>
+      <link>http://localhost:1313/essencias/tags/existencialismo/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/existencialismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partida E Fim</title>
+      <link>http://localhost:1313/essencias/tags/partida-e-fim/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/partida-e-fim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poesia</title>
+      <link>http://localhost:1313/essencias/tags/poesia/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/poesia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saudade</title>
+      <link>http://localhost:1313/essencias/tags/saudade/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/tags/saudade/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

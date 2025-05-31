@@ -3,7 +3,7 @@
 # 1 - referencing /poetry calls for /en/poetry in english, instead of having to specify en/poetry (which would call en/en/poetry)
 # this means that the content structure pulls directory tree as is ??
 # I ran --cleanDestinationDir and fucked up everything
-# apparently .gitignore has the public folder LMFAO
+# it finally works!!!!!!!!!!!
 #------------------------------------
 baseURL: "https://gdalba.github.io/essencias/"
 title: Essências de Gabriel Dall'Alba

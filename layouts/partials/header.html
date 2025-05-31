@@ -67,7 +67,7 @@
                 {{- end }}
                 {{- end }}
 
-                {{- $lang := .Lang}}
+                <!-- {{- $lang := .Lang}}
                 {{- with site.Home.AllTranslations }}
                 <ul class="lang-switch">
                     {{- range . -}}
@@ -83,7 +83,29 @@
                     </li>
                     {{- end }}
                 </ul>
-                {{- end }}
+                {{- end }} -->
+                <ul class="lang-switch">
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                    | replaceRE `^/essencias/en/` `/essencias/` 
+                                    | replaceRE `/poetry/` `/poesias/` 
+                                    | replaceRE `/philosophy/` `/filosofia/` 
+                                    | replaceRE `/about/` `/sobre/` 
+                                    | replaceRE `/themes/` `/temas/` }}" 
+                        title="Português" 
+                        aria-label="Português">Pt</a>
+                    </li>
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                    | replaceRE `^/essencias/(poesias|filosofia|sobre|temas)` `/essencias/en/${1}` 
+                                    | replaceRE `/poesias/` `/poetry/` 
+                                    | replaceRE `/filosofia/` `/philosophy/` 
+                                    | replaceRE `/sobre/` `/about/` 
+                                    | replaceRE `/temas/` `/themes/` }}" 
+                        title="English" 
+                        aria-label="English">En</a>
+                    </li>
+                </ul>
             </div>
         </div>
         {{- $currentPage := . }}
