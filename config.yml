@@ -41,7 +41,7 @@ languages:
               <img src="Screenshot 2023-10-15 205624.png" alt="Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)" style="max-width: 100%; height: auto; border-radius: 5px;">
               <figcaption style="font-style: italic; margin-top: 10px;">"A Morte do Velho" do artista Eslováquio-Húngaro László Mednyánszky (1890)</figcaption>
             </figure>
-        imageUrl: "personal.jpg"
+        #imageUrl: "personal.jpg"
         imageWidth: 160
         imageHeight: 160
         imageTitle: Gabriel Dall'Alba
@@ -84,7 +84,7 @@ languages:
               <img src="/essencias/deathpainting.png" alt="Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)" style="max-width: 100%; height: auto; border-radius: 5px;">
               <figcaption style="font-style: italic; margin-top: 10px;">Old Man's Death by the Slovak-Hungarian artist László Mednyánszky (1890)</figcaption>
             </figure>
-        imageUrl: "personal.jpg"
+        #imageUrl: "personal.jpg"
         imageWidth: 160
         imageHeight: 160
         imageTitle: Gabriel Dall'Alba
