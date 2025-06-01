@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="random-poem-container">
+  <h1>{{ .Title }}</h1>
+  <div id="loading" class="random-poem-loading">
+    <p>Selecionando um poema aleatório...</p>
+  </div>
+  <div id="poem-content" class="random-poem-content" style="display: none;">
+    <!-- Content will be loaded dynamically -->
+  </div>
+</div>
+
+<script>
+  // Get all poem URLs
+  const poems = [
+    {{ range (where site.RegularPages "Section" "poesias") }}
+      {{ if not (eq .Layout "random") }}
+        {{ if not (in .RelPermalink "/coletaneas/") }}
+          "{{ .RelPermalink }}",
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  ];
+
+  // Function to redirect to a random poem
+  function redirectToRandomPoem() {
+    if (poems.length > 0) {
+      const randomIndex = Math.floor(Math.random() * poems.length);
+      const randomPoemURL = poems[randomIndex];
+      window.location.href = randomPoemURL;
+    } else {
+      document.getElementById("loading").innerHTML = "<p>Nenhum poema encontrado.</p>";
+    }
+  }
+
+  // Execute when the page loads
+  document.addEventListener('DOMContentLoaded', redirectToRandomPoem);
+</script>
+{{ end }}

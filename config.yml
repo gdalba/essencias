@@ -47,7 +47,9 @@ languages:
         imageTitle: Gabriel Dall'Alba
         buttons:
           - name: Poesia
-            url: poesias/  # Make sure to use absolute paths with leading slash
+            url: poesias/  
+          - name: Poema Aleatório
+            url: poesias/aleatório/
           - name: Filosofia  
             url: filosofia/
           - name: Sobre
@@ -90,7 +92,9 @@ languages:
         imageTitle: Gabriel Dall'Alba
         buttons:
           - name: Poetry
-            url: poetry/  # Make sure to use absolute paths with leading slash
+            url: poetry/
+          - name: Random Poem
+            url: poetry/random/
           - name: Philosophy  
             url: philosophy/
           - name: About

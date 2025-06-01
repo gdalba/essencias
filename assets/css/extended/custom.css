@@ -191,3 +191,20 @@ body {
   top: -15px;
   left: 0;
 }
+/* Random poem styles */
+.random-poem-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.random-poem-loading {
+  margin: 2rem 0;
+  font-style: italic;
+  color: var(--secondary);
+}
+
+.random-poem-content {
+  margin-top: 2rem;
+}
