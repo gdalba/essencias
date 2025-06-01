@@ -48,8 +48,6 @@ languages:
         buttons:
           - name: Poesia
             url: poesias/  
-          - name: Poema Aleatório
-            url: poesias/aleatório/
           - name: Filosofia  
             url: filosofia/
           - name: Sobre
@@ -93,8 +91,6 @@ languages:
         buttons:
           - name: Poetry
             url: poetry/
-          - name: Random Poem
-            url: poetry/random/
           - name: Philosophy  
             url: philosophy/
           - name: About
