@@ -109,7 +109,7 @@
                 <ul class="lang-switch">
                     <li>
                         <a href="{{ .RelPermalink 
-                                | replaceRE `^/essencias/en/` `/essencias/` 
+                                | replaceRE `^/essencias/en/` `/essencias/`
                                 | replaceRE `/poetry/` `/poesias/` 
                                 | replaceRE `/philosophy/` `/filosofia/` 
                                 | replaceRE `/about/` `/sobre/` 
@@ -118,14 +118,21 @@
                         aria-label="{{ i18n "pt" }}">{{ i18n "pt" }}</a>
                     </li>
                     <li>
-                        <a href="{{ .RelPermalink 
-                                | replaceRE `^/essencias/` `/essencias/en/` 
-                                | replaceRE `/poesias/` `/poetry/` 
-                                | replaceRE `/filosofia/` `/philosophy/` 
-                                | replaceRE `/sobre/` `/about/` 
-                                | replaceRE `/temas/` `/themes/` }}" 
-                        title="{{ i18n "en" }}"  
-                        aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- $is_english_page := in .RelPermalink "/en/" }}
+                        {{- if $is_english_page }}
+                            <a href="#" class="active" 
+                            title="{{ i18n "en" }}"  
+                            aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- else }}
+                            <a href="{{ .RelPermalink 
+                                    | replaceRE `^/essencias/` `/essencias/en/` 
+                                    | replaceRE `/poesias/` `/poetry/` 
+                                    | replaceRE `/filosofia/` `/philosophy/` 
+                                    | replaceRE `/sobre/` `/about/` 
+                                    | replaceRE `/temas/` `/themes/` }}" 
+                            title="{{ i18n "en" }}"  
+                            aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- end }}
                     </li>
                 </ul>
             </div>

@@ -145,26 +145,39 @@ A solution must be found, because I don't want to use Hugo's native translation.
                 <ul class="lang-switch">
                     <li>
                         <a href="{{ .RelPermalink 
-                                | replaceRE `^/essencias/en/` `/essencias/` 
+                                | replaceRE `^/essencias/en/` `/essencias/`
                                 | replaceRE `/poetry/` `/poesias/` 
                                 | replaceRE `/philosophy/` `/filosofia/` 
                                 | replaceRE `/about/` `/sobre/` 
                                 | replaceRE `/themes/` `/temas/` }}" 
-                        title="{{ i18n "pt" }}" <!-- added i18n syntax -->
-                        aria-label="{{ i18n "pt" }}">{{ i18n "pt" }}</a> <!-- added i18n syntax -->
+                        title="{{ i18n "pt" }}" 
+                        aria-label="{{ i18n "pt" }}">{{ i18n "pt" }}</a>
                     </li>
                     <li>
-                        <a href="{{ .RelPermalink 
-                                | replaceRE `^/essencias/` `/essencias/en/` 
-                                | replaceRE `/poesias/` `/poetry/` 
-                                | replaceRE `/filosofia/` `/philosophy/` 
-                                | replaceRE `/sobre/` `/about/` 
-                                | replaceRE `/temas/` `/themes/` }}" 
-                        title="{{ i18n "en" }}" 
-                        aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- $is_english_page := in .RelPermalink "/en/" }}
+                        {{- if $is_english_page }}
+                            <a href="#" class="active" 
+                            title="{{ i18n "en" }}"  
+                            aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- else }}
+                            <a href="{{ .RelPermalink 
+                                    | replaceRE `^/essencias/` `/essencias/en/` 
+                                    | replaceRE `/poesias/` `/poetry/` 
+                                    | replaceRE `/filosofia/` `/philosophy/` 
+                                    | replaceRE `/sobre/` `/about/` 
+                                    | replaceRE `/temas/` `/themes/` }}" 
+                            title="{{ i18n "en" }}"  
+                            aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                        {{- end }}
                     </li>
                 </ul>
 ```
+
+## How to use i18n
+
+A folder called `i18n` contain what I perceive to be small dictionaries of translation, in there you will find `<language>.yml`, and it will call for the appropriate translations to take place. A key change is the addition of the tag `ContentDir` to the `config.yml` file, this way, Hugo knows how to call the folder with content of that specific language. I don't know exactly why but this fixed i18n implementation for me.
+
+For new languages, create the `<language>.yml` inside ì18n` folder, and add the key IDs and translations within. Make sure to add the language and specifics to `config.yml`.
 
 ## License
 
