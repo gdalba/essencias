@@ -84,7 +84,7 @@
                     {{- end }}
                 </ul>
                 {{- end }} -->
-                <ul class="lang-switch">
+                <!-- <ul class="lang-switch">
                     <li>
                         <a href="{{ .RelPermalink 
                                     | replaceRE `^/essencias/en/` `/essencias/` 
@@ -105,11 +105,33 @@
                         title="English" 
                         aria-label="English">En</a>
                     </li>
+                </ul> -->
+                <ul class="lang-switch">
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                | replaceRE `^/essencias/en/` `/essencias/` 
+                                | replaceRE `/poetry/` `/poesias/` 
+                                | replaceRE `/philosophy/` `/filosofia/` 
+                                | replaceRE `/about/` `/sobre/` 
+                                | replaceRE `/themes/` `/temas/` }}" 
+                        title="{{ i18n "pt" }}" 
+                        aria-label="{{ i18n "pt" }}">{{ i18n "pt" }}</a>
+                    </li>
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                | replaceRE `^/essencias/` `/essencias/en/` 
+                                | replaceRE `/poesias/` `/poetry/` 
+                                | replaceRE `/filosofia/` `/philosophy/` 
+                                | replaceRE `/sobre/` `/about/` 
+                                | replaceRE `/temas/` `/themes/` }}" 
+                        title="{{ i18n "en" }}" 
+                        aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                    </li>
                 </ul>
             </div>
         </div>
         {{- $currentPage := . }}
-        <ul id="menu">
+        <!-- <ul id="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
@@ -133,7 +155,44 @@
                 </a>
             </li>
             {{- end }}
-        </ul>
+        </ul> -->
+            <ul id="menu">
+                {{- range site.Menus.main }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+                {{- $page_url:= $currentPage.Permalink | absLangURL }}
+                {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+                {{- $is_english_page := in $currentPage.Permalink "/en/" }}
+                <li>
+                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}">
+                        <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                            {{- .Pre }}
+                            {{- if $is_english_page }}
+                                {{- i18n .Name | default .Name -}}
+                            {{- else }}
+                                {{- .Name -}}
+                            {{- end }}
+                            {{ .Post -}}
+                        </span>
+                        {{- if $is_search -}}
+                        <span class="search-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                            </svg>
+                        </span>
+                        {{- end -}}
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
+            <!-- TO DEBUG THE CURRENT LOCALE OF PAGE -->
+            <!-- <div style="background: #f0f0f0; padding: 10px; margin: 10px 0; font-family: monospace;">
+            <p>Current language: {{ .Lang }}</p>
+            <p>Available translations: {{ len site.Home.Translations }}</p>
+            <p>Menu items: {{ len site.Menus.main }}</p>
+            <p>Test translation of "Poesia": {{ i18n "Poesia" }}</p>
+        </div> -->
     </nav>
 </header>
 

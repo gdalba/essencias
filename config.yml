@@ -23,6 +23,7 @@ taxonomies:
 languages:
   pt:
     languageName: "Português"
+    contentDir: "content"
     weight: 1
     title: "Essências de Gabriel Dall'Alba"
     params:
@@ -66,6 +67,7 @@ languages:
 
   en:
     languageName: "English"
+    contentDir: "content/en"    
     weight: 2
     title: "Essences by Gabriel Dall'Alba"
     params:
@@ -97,13 +99,16 @@ languages:
             url: about/
     menu:
       main:
-        - name: Poetry
+        #- name: Poetry
+        - name: Poesia
           url: poetry/
           weight: 5 
-        - name: Philosophy
+        #- name: Philosophy
+        - name: Filosofia
           url: philosophy/
           weight: 10
-        - name: About 
+        #- name: About 
+        - name: Autor
           url: about/
           weight: 20
 
