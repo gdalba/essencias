@@ -3,7 +3,7 @@ title: "Paintings"
 date: 2014-05-20
 draft: false
 tags: ["poetry", "self-portrait", "existentialism", "surrealism"]
-summary: "No banquete sentavam-se os magos, com suas magias esvaziadas,os alquimistas e suas fórmulas de esperança extraviada..."
+summary: "I plunge in my arm, my torso, the weariness and the shame."
 cover:
     image: "dali.png"
 ---
