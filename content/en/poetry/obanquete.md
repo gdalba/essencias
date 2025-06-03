@@ -3,7 +3,7 @@ title: "The Banquet"
 date: 2014-03-15
 draft: false
 tags: ["poetry", "death", "existentialism", "surrealism"]
-summary: "No banquete sentavam-se os magos, com suas magias esvaziadas,os alquimistas e suas fórmulas de esperança extraviada..."
+summary: "At the banquet sat the magicians, with their emptied spells, the alchemists and their formulas of wayward hope..."
 cover:
     image: "Joshua-Flint-The-Banquet-LOW.jpeg"
 ---
