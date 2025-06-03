@@ -83,7 +83,7 @@ I wanted to expand upon the existing template and implement different language p
 
 ```
 
-### A two-step approach does as follows 
+### A two-step approach does as follows:
 
 #### From a Portuguese link:
 
@@ -139,7 +139,32 @@ Each category requires mappings from **every language to every other language**,
 
 `7 * 5 * (5 - 1) = 140` mappings
 
-A solution must be found, because I don't want to use Hugo's native translation.
+A solution must be found, because I don't want to use Hugo's native translation. (Update: Currently, I do use the i18n approach, but implemented in union with my custom approach, this gives full translation to pages while staying in the same page when changing locale, it's quite nice now).
+
+```html
+                <ul class="lang-switch">
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                | replaceRE `^/essencias/en/` `/essencias/` 
+                                | replaceRE `/poetry/` `/poesias/` 
+                                | replaceRE `/philosophy/` `/filosofia/` 
+                                | replaceRE `/about/` `/sobre/` 
+                                | replaceRE `/themes/` `/temas/` }}" 
+                        title="{{ i18n "pt" }}" <!-- added i18n syntax -->
+                        aria-label="{{ i18n "pt" }}">{{ i18n "pt" }}</a> <!-- added i18n syntax -->
+                    </li>
+                    <li>
+                        <a href="{{ .RelPermalink 
+                                | replaceRE `^/essencias/` `/essencias/en/` 
+                                | replaceRE `/poesias/` `/poetry/` 
+                                | replaceRE `/filosofia/` `/philosophy/` 
+                                | replaceRE `/sobre/` `/about/` 
+                                | replaceRE `/temas/` `/themes/` }}" 
+                        title="{{ i18n "en" }}" 
+                        aria-label="{{ i18n "en" }}">{{ i18n "en" }}</a>
+                    </li>
+                </ul>
+```
 
 ## License
 
@@ -147,7 +172,7 @@ The website code is licensed under the MIT License. Content is copyright © Gabr
 
 ## Acknowledgments
 
-[Hugo](https://gohugo.io/) for the static site generator
-[PaperMod](https://github.com/adityatelange/hugo-PaperMod) for the base theme
+[Hugo](https://gohugo.io/) for the static site generator.
+[PaperMod](https://github.com/adityatelange/hugo-PaperMod) for the base theme.
 [Template by Pascal Michaillat](https://pascalmichaillat.org/b/) for baseline and additional theme customizations.
 [Sara Zhang](https://saraz9.github.io/) for inspiration.
