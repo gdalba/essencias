@@ -117,32 +117,52 @@ body {
   margin: 0 5px;
 }
 
-.homepage .home-header .lang-switch .active {
-  display: block;
-  padding: 8px 15px;
-  background: #b3b3b3; /* Grey background for active language CHANGE THIS FOR ACTIVE LANGUAGE*/
-  color: white;
-  border-radius: 4px;
-  font-weight: 500;
-  font-size: 1rem;
+/* Mobile-friendly language switcher adjustments */
+@media (max-width: 768px) {
+  /* General mobile positioning */
+  .homepage .home-header {
+    position: static;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Button size and spacing adjustments */
+  .homepage .home-header .lang-switch li {
+    margin: 0 3px;
+  }
+  
+  .homepage .home-header .lang-switch .active,
+  .homepage .home-header .lang-switch a {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+  }
+  
+  /* Additional fixes for non-homepage language switcher */
+  .header .nav .logo-switches .lang-switch {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .header .nav .logo-switches .lang-switch li {
+    margin: 0 3px;
+  }
+  
+  .header .nav .logo-switches .lang-switch a {
+    padding: 5px 8px;
+    font-size: 0.9rem;
+  }
 }
 
-.homepage .home-header .lang-switch a {
-  display: block;
-  padding: 8px 15px;
-  background: #414141; /* Green background for inactive languages CHANGE THIS FOR INACTIVE LANGUAGE */
-  color: white;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1rem;
-  transition: all 0.3s ease;
-}
-
-.homepage .home-header .lang-switch a:hover {
-  background: #025a3d;
-  transform: translateY(-2px);
-  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+/* Extra small screens (iPhone SE, etc.) */
+@media (max-width: 375px) {
+  .homepage .home-header .lang-switch .active,
+  .homepage .home-header .lang-switch a {
+    padding: 5px 8px;
+    font-size: 0.85rem;
+  }
 }
 
 /* Content area styling */
