@@ -5,7 +5,7 @@ description: "Collections of poems organized by theme"
 
 <div class="collections-list">
   <div class="collection-item">
-    <h3><a href="Liturgia-para-Sara/">Liturgy for Sara</a></h3>    
+    <h3><a href="liturgia-para-Sara/">Liturgy for Sara</a></h3>    
   </div>
   
   
