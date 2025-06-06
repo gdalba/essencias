@@ -17,7 +17,7 @@ no casebre à beira de um lago vermelho<br>
 do derramado sangue de minha mãe<br>
 que, na morte de me despejar no mundo,<br>
 entendeu que o mundo é passageiro -<br>
-um cristal de finas pontas, um prisma de muitas vertentes.<br><br>
+um cristal de finas pontas, um prisma de muitas vertentes.<br>
 
 Vai doer no coração quando eu lembrar de quem morreu por mim,<br>
 vai doer na alma quando eu mostrar a minha ingratidão.<br>

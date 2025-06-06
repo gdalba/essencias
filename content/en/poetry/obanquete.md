@@ -13,38 +13,38 @@ cover:
 At the banquet sat the magicians, with their emptied spells,<br>
 the alchemists and their formulas of wayward hope,<br>
 the philosophers, inert before their own questions,<br>
-and the murderers sharing bread with their forgotten victims.<br><br>
+and the murderers sharing bread with their forgotten victims.<br>
 
 All conversed among themselves, as if existence were dialogue.<br>
 Though none had waited for me, I came.<br>
-I arrived with the lateness proper to those who never belong.<br><br>
+I arrived with the lateness proper to those who never belong.<br>
 
 I sat in the armchair of ancient thorns — now soft as habit.<br>
-I sat with my depersonalized pain.<br><br>
+I sat with my depersonalized pain.<br>
 
 With a weary soul and an irremediable gaze,<br>
 I observed the remains, the crumbs of ideas,<br>
-glasses of empty intentions, bottles of spilled promises.<br><br>
+glasses of empty intentions, bottles of spilled promises.<br>
 
 Where once hearts had pulsed, there were only vestiges of affection.<br>
 In the glances, the tepid veneer of hidden judgment.<br>
 My cries for help dissolved into the air<br>
-like the last echo of a will that no longer belongs to me.<br><br>
+like the last echo of a will that no longer belongs to me.<br>
 
 They were lost among the verses of a distant poet,<br>
 who recited to no one<br>
-and yet was present.<br><br>
+and yet was present.<br>
 
 He recited as if time were his accomplice<br>
 and did not notice that, in the most uninhabited corner of the table,<br>
-I sat not whole but still present.<br><br>
+I sat not whole but still present.<br>
 
 Those verses, once warmed by glimpses of being,<br>
 slowly turned into a space of absence:<br>
 the colors withered like the leaves of an ontological autumn,<br>
 my flesh dissolved into irrelevance,<br>
 and all that remained of me was the skeleton a gaze,<br>
-tragically lucid.<br><br>
+tragically lucid.<br>
 
 Left behind were<br>
 the magicians and their weary illusions,<br>

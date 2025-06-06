@@ -13,23 +13,23 @@ cover:
 The silent theater receives<br>
 paintings drawn with the finest strokes,<br>
 with the most refined and ornate<br>
-feeling.<br><br>
+feeling.<br>
 
 A feeling that speaks in silence<br>
 to parts of me I had forgotten<br>
-even existed.<br><br>
+even existed.<br>
 
 I come across a grey portrait<br>
 of a colorful world.<br>
 A dark grove within the woodland.<br>
 A secret crossed by lies.<br>
-A spoken portrait.<br><br>
+A spoken portrait.<br>
 
 I come across a colorful portrait<br>
 of a dim world,<br>
 precious stones amid coal and silt,<br>
 a masterpiece.<br>
-A faithful self-portrait.<br><br>
+A faithful self-portrait.<br>
 
 My hand dives into the black canvas,<br>
 I plunge in my arm, my torso, the weariness<br>

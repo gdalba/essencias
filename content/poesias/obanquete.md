@@ -12,38 +12,38 @@ cover:
 No banquete sentavam-se os magos, com suas magias esvaziadas,<br>
 os alquimistas e suas fórmulas de esperança extraviada,<br>
 os filósofos inertes diante das próprias interrogações,<br>
-e os assassinos compartilhando pão com suas vítimas esquecidas.<br><br>
+e os assassinos compartilhando pão com suas vítimas esquecidas.<br>
 
 Todos conversavam entre si, como se a existência fosse diálogo.<br>
 Embora nenhum deles houvesse me esperado, eu vim.<br>
-Cheguei com o atraso próprio dos que jamais pertencem.<br><br>
+Cheguei com o atraso próprio dos que jamais pertencem.<br>
 
 Sentei-me na poltrona de espinhos antigos – já macios como o hábito.<br>
-Sentei-me com minha dor despersonalizada.<br><br>
+Sentei-me com minha dor despersonalizada.<br>
 
 De alma fatigada e olhar irremediável,<br>
 eu observava os restos, as migalhas as ideias,<br>
-copos de intenções vazias, garrafas de promessas vertidas.<br><br>
+copos de intenções vazias, garrafas de promessas vertidas.<br>
 
 Onde um dia pulsaram corações, havia apenas vestígios de afetos.<br>
 Nos olhares o verniz morno do julgamento oculto.<br>
 Meus apelos por socorro dissolviam-se no ar<br>
-como o último eco de uma vontade que já não me pertence.<br><br>
+como o último eco de uma vontade que já não me pertence.<br>
 
 Perdiam-se entre os versos de um poeta alheio,<br>
 que declamava para ninguém<br>
-e, ainda assim, era presente.<br><br>
+e, ainda assim, era presente.<br>
 
 Ele declamava como se o tempo fosse cúmplice<br>
 e não notava que, no canto mais desabitado da mesa,<br>
-eu estava não inteiro mas também presente.<br><br>
+eu estava não inteiro mas também presente.<br>
 
 Aqueles versos, outrora aquecido por lampejos de ser,<br>
 tornava-se lentamente um espaço de ausência:<br>
 as cores feneciam como folhas de um outono ontológico,<br>
 minha carne se dissolvia na irrelevância,<br>
 e o que restava de mim era apenas o esqueleto um olhar<br>
-tristemente lúcido.<br><br>
+tristemente lúcido.<br>
 
 Ficavam<br>
 os magos e suas ilusões fatigadas,<br>

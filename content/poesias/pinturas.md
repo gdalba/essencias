@@ -13,23 +13,23 @@ cover:
 O teatro calado recebe<br>
 pinturas do mais fino tracejado,<br>
 do mais requintado e rebuscado<br>
-sentimento.<br><br>
+sentimento.<br>
 
 Sentimento que conversa em silêncio<br>
 com partes minhas que eu havia esquecido<br>
-que existiam.<br><br>
+que existiam.<br>
 
 Me deparo com um retrato cinza<br>
 de um mundo colorido.<br>
 Um bosque escuro dentro do arvoredo.<br>
 Um segredo atravessado por mentiras.<br>
-Um retrato falado.<br><br>
+Um retrato falado.<br>
 
 Me deparo com um retrato colorido<br>
 de um mundo fímbrio,<br>
 pedras preciosas entre carvão e silte,<br>
 uma obra-prima.<br>
-Um auto-retrato fidedigno.<br><br>
+Um auto-retrato fidedigno.<br>
 
 Minha mão mergulha no quadro negro,<br>
 mergulho o braço, o tronco, o cansaço<br>

@@ -17,7 +17,7 @@ in the shack by a red lake,<br>
 stained with the spilled blood of my mother,<br>
 who, in the death of birthing me into the world,<br>
 understood the world to be fleeting—<br>
-a crystal with sharp edges, a prism of many facets.<br><br>
+a crystal with sharp edges, a prism of many facets.<br>
 
 It will ache in my heart when I remember who died for me,<br>
 it will ache in my soul when I reveal my ingratitude.<br>

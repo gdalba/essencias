@@ -8,52 +8,52 @@ summary: "But within Sara’s gaze the world grows still."
 Maria wandered<br>
 without a guide,<br>
 and made, Maria,<br>
-my joy abide.<br><br>
+my joy abide.<br>
 
 But within Sara’s gaze<br>
 the world grows still—<br>
 and Maria’s name<br>
-sinks deep in will.<br><br>
+sinks deep in will.<br>
 
 There is no more Maria<br>
 in breath of life,<br>
 in fate’s soft song,<br>
-in alleyway strife.<br><br>
+in alleyway strife.<br>
 
 But hidden like shadow<br>
 in the rarest of light,<br>
 a flicker remains:<br>
-her name is Sara.<br><br>
+her name is Sara.<br>
 
 A cold wind calls itself Maria,<br>
 waves of love wherever she’d be.<br>
 But I alone knew, as the tide pulled her far,<br>
-that the name that burned deep — was Sara.<br><br>
+that the name that burned deep — was Sara.<br>
 
 Maria now sleeps<br>
 in a feathery bed,<br>
 in the darkest part<br>
-of my heart, unsaid.<br><br>
+of my heart, unsaid.<br>
 
 But it’s Sara who dreams<br>
 where the world folds in two,<br>
 in silence so deep,<br>
-in devotion true.<br><br>
+in devotion true.<br>
 
 There are many Marias,<br>
 with comings and goings,<br>
 Marias that lived,<br>
-Marias unknowing.<br><br>
+Marias unknowing.<br>
 
 But the one never shown,<br>
 the one that won’t sever,<br>
 the one time disguises—<br>
-that one is Sara.<br><br>
+that one is Sara.<br>
 
 Saintly Marias,<br>
 and Marias in bloom,<br>
 verses of old<br>
-that time resumes.<br><br>
+that time resumes.<br>
 
 Yet among them all,<br>
 of faith and lore,<br>
