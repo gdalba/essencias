@@ -3,15 +3,13 @@ title: "Collections"
 description: "Collections of poems organized by theme"
 ---
 
-Nesta seção você encontrará minhas poesias organizadas em coletâneas.
-
-<!-- <div class="collections-list">
+<div class="collections-list">
   <div class="collection-item">
-    <h3><a href="love/">Love</a></h3>
-    <p>placeholder</p>
+    <h3><a href="Liturgia-para-Sara/">Liturgy for Sara</a></h3>    
   </div>
   
-  <div class="collection-item">
+  
+<!--  <div class="collection-item">
     <h3><a href="nature/">Nature</a></h3>
     <p>Placeholder</p>
   </div>
