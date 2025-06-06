@@ -26,7 +26,7 @@ murchou sem testemunha.<br>
 Nem pétala restou.<br>
 Não gira ao sol, nem dobra ao vento.<br>
 
-E agora o eu metafísico caminh nesse campo seco<br>
+E agora o eu metafísico caminha nesse campo seco<br>
 falando com flores que não existem,<br>
 rezando a versos que ninguém lê,<br>
 gritando um nome que não lhe responde.<br>
