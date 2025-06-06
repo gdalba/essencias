@@ -37,5 +37,5 @@ Sou brasileiro, nascido em **Caxias do Sul**, no ano de **1997**. Tenho sangue i
 Formado em **Ciências Biológicas** pela *Universidade de Caxias do Sul*  
 e mestre em **Ciências Genômicas e Tecnologia** pela *University of British Columbia*.
 
-Estudo filosofia e poesia desde 2014.
-Desejo arquivar aqui aquilo que produzo através da união, por vezes organizada, de palavras e pensamentos.
+Estudo filosofia e poesia desde 2014, e desejo arquivar aqui aquilo que produzo através da união, por vezes organizada, de palavras e pensamentos.<br>
+Meu coração está meio morto, mas viverá enquanto fizermos poesia.

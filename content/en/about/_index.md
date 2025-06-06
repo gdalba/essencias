@@ -38,6 +38,6 @@ I am Brazilian, born in **Caxias do Sul** in **1997**. I have italian blood, ita
 Graduated in **Biological Sciences** from the *University of Caxias do Sul*,  
 and Master in **Genomic Sciences and Technology** from the *University of British Columbia*.
 
-I’ve been studying philosophy and poetry since 2014.  
-Here, I intend to archive what I create through the at times organized union of words and thoughts.
+I’ve been studying philosophy and poetry since 2014 and here, I intend to archive what I create through the at times organized union of words and thoughts.<br>
+My heart is half dead, but will live as long as we create poetry.
 
