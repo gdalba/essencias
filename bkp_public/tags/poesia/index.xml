@@ -6,26 +6,49 @@
     <description>Recent content in Poesia on Essências de Gabriel Dall&#39;Alba</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/essencias/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nem Sempre</title>
+      <link>http://localhost:1313/essencias/poesias/nemsempre/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/poesias/nemsempre/</guid>
+      <description>Às vezes escrevo sobre borboletas, nem sempre.</description>
+    </item>
+    <item>
+      <title>Devaneio</title>
+      <link>http://localhost:1313/essencias/poesias/devaneio/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/poesias/devaneio/</guid>
+      <description>Deita comigo, minha amiga, minha amada morte.</description>
+    </item>
     <item>
       <title>Ao Passo da Largada</title>
       <link>http://localhost:1313/essencias/poesias/aopassodalargada/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/essencias/poesias/aopassodalargada/</guid>
-      <description>&lt;h2 id=&#34;ao-passo-da-largada&#34;&gt;Ao Passo da Largada&lt;/h2&gt;
-&lt;p&gt;Minha caminhada toda deselegante&lt;br&gt;
-é marcada pela fina linha que me prende à penosos momentos&lt;br&gt;
-e pelo abismo cerúleo arrogante&lt;br&gt;
-que enturva meu futuro tão sangrento.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Se estou indo para o lado errado, quero mais manter-me consciente,&lt;br&gt;
-traçando passos infinitos pelas pontes transparentes&lt;br&gt;
-da incerteza e das dúvidas tão, tão intermitentes&lt;br&gt;
-que ecoam e destoam meu destino.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Na passada melancólica que me ebule,&lt;br&gt;
-transponho as montanhas destes picos invisíveis.&lt;br&gt;
-No medo, não há futuro que eu confabule&lt;br&gt;
-sem morrer entre o vazio dos meus dotes intangíveis.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+      <description>Minha caminhada toda deselegante&lt;br&gt;é marcada pela fina linha que me prende à penosos momentos&lt;br&gt;e pelo abismo cerúleo arrogante&lt;br&gt;que enturva meu futuro tão sangrento.</description>
+    </item>
+    <item>
+      <title>Pintura sacristã</title>
+      <link>http://localhost:1313/essencias/poesias/pintura-sacrista/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/poesias/pintura-sacrista/</guid>
+      <description>À leste da pontifícia arcada, dorme Deus e eu.</description>
+    </item>
+    <item>
+      <title>Pinturas</title>
+      <link>http://localhost:1313/essencias/poesias/pinturas/</link>
+      <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/poesias/pinturas/</guid>
+      <description>&amp;hellip; mergulho o braço, o tronco, o cansaço e a vergonha.</description>
+    </item>
+    <item>
+      <title>O Banquete</title>
+      <link>http://localhost:1313/essencias/poesias/obanquete/</link>
+      <pubDate>Sat, 15 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/poesias/obanquete/</guid>
+      <description>No banquete sentavam-se os magos, com suas magias esvaziadas,os alquimistas e suas fórmulas de esperança extraviada&amp;hellip;</description>
     </item>
   </channel>
 </rss>

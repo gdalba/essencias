@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Poetry on Essências de Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/cn/poetry/</link>
+    <description>Recent content in Poetry on Essências de Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>pt</language>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/cn/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At the Pace of the Starting Line</title>
+      <link>http://localhost:1313/essencias/cn/poetry/aopassodalargada/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/cn/poetry/aopassodalargada/</guid>
+      <description>My awkward, graceless walk&lt;br&gt;is drawn along the thin line that binds me to painful times&lt;br&gt;and by the arrogant cerulean abyss&lt;br&gt;that clouds my future, already soaked in crimson.</description>
+    </item>
+  </channel>
+</rss>

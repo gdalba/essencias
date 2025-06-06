@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Religion on Essences by Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/en/tags/religion/</link>
+    <description>Recent content in Religion on Essences by Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/en/tags/religion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I - Maria-Sara in the Infinitude of My Soul</title>
+      <link>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/maria-sara-na-infinitude-de-minhalma/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/maria-sara-na-infinitude-de-minhalma/</guid>
+      <description>But within Sara’s gaze the world grows still.</description>
+    </item>
+    <item>
+      <title>Sacristy Painting</title>
+      <link>http://localhost:1313/essencias/en/poetry/pintura-sacrista/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/pintura-sacrista/</guid>
+      <description>To the east of the pontifical archway, God and I lie asleep.</description>
+    </item>
+  </channel>
+</rss>

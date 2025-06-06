@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amor on Essences by Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/en/tags/amor/</link>
+    <description>Recent content in Amor on Essences by Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/en/tags/amor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>II - Sara por Inteira</title>
+      <link>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/sara-por-inteira/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/sara-por-inteira/</guid>
+      <description>Não és metade, nem sombra de outra.</description>
+    </item>
+  </channel>
+</rss>

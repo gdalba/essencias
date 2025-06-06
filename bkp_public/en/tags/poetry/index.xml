@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Poetry on Essences by Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/en/tags/poetry/</link>
+    <description>Recent content in Poetry on Essences by Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/en/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Always</title>
+      <link>http://localhost:1313/essencias/en/poetry/nemsempre/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/nemsempre/</guid>
+      <description>Às vezes escrevo sobre borboletas, nem sempre.</description>
+    </item>
+    <item>
+      <title>Reverie</title>
+      <link>http://localhost:1313/essencias/en/poetry/devaneio/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/devaneio/</guid>
+      <description>Lie with me, my friend, my beloved death.</description>
+    </item>
+    <item>
+      <title>At the Pace of the Starting Line</title>
+      <link>http://localhost:1313/essencias/en/poetry/aopassodalargada/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/aopassodalargada/</guid>
+      <description>My awkward, graceless walk&lt;br&gt;is drawn along the thin line that binds me to painful times&lt;br&gt;and by the arrogant cerulean abyss&lt;br&gt;that clouds my future, already soaked in crimson.</description>
+    </item>
+    <item>
+      <title>Sacristy Painting</title>
+      <link>http://localhost:1313/essencias/en/poetry/pintura-sacrista/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/pintura-sacrista/</guid>
+      <description>To the east of the pontifical archway, God and I lie asleep.</description>
+    </item>
+    <item>
+      <title>Paintings</title>
+      <link>http://localhost:1313/essencias/en/poetry/pinturas/</link>
+      <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/pinturas/</guid>
+      <description>I plunge in my arm, my torso, the weariness and the shame.</description>
+    </item>
+    <item>
+      <title>The Banquet</title>
+      <link>http://localhost:1313/essencias/en/poetry/obanquete/</link>
+      <pubDate>Sat, 15 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/obanquete/</guid>
+      <description>At the banquet sat the magicians, with their emptied spells, the alchemists and their formulas of wayward hope&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

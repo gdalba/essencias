@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sara on Essences by Gabriel Dall&#39;Alba</title>
+    <link>http://localhost:1313/essencias/en/tags/sara/</link>
+    <description>Recent content in Sara on Essences by Gabriel Dall&#39;Alba</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/essencias/en/tags/sara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I - Maria-Sara in the Infinitude of My Soul</title>
+      <link>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/maria-sara-na-infinitude-de-minhalma/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/maria-sara-na-infinitude-de-minhalma/</guid>
+      <description>But within Sara’s gaze the world grows still.</description>
+    </item>
+    <item>
+      <title>II - Sara, Entire</title>
+      <link>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/sara-por-inteira/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essencias/en/poetry/coletaneas/liturgia-para-sara/sara-por-inteira/</guid>
+      <description>You are not a half, nor a shadow of another.</description>
+    </item>
+  </channel>
+</rss>

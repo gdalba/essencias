@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About the Author on Essências de Gabriel Dall&#39;Alba</title>
+    <title>About the Author on Essences by Gabriel Dall&#39;Alba</title>
     <link>http://localhost:1313/essencias/en/about/</link>
-    <description>Recent content in About the Author on Essências de Gabriel Dall&#39;Alba</description>
+    <description>Recent content in About the Author on Essences by Gabriel Dall&#39;Alba</description>
     <generator>Hugo -- 0.147.6</generator>
-    <language>pt</language>
+    <language>en</language>
     <atom:link href="http://localhost:1313/essencias/en/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
