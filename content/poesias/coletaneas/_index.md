@@ -7,7 +7,7 @@ description: "Coleções de poemas organizados por temas"
 
 <div class="collections-list">
   <div class="collection-item">
-    <h3><a href="liturgia-para-Sara/">Liturgia para Sara</a></h3>    
+    <h3><a href="liturgia-para-sara/">Liturgia para Sara</a></h3>    
   </div>
   
 <!--  <div class="collection-item">
