@@ -6,71 +6,88 @@ summary: "After she flew, the garden remained."
 ---
 
 After she flew, the garden remained.<br>
+It remained the way things linger<br>
+when they’ve been seen too much:<br>
+quiet,<br>
+wrapped in a kind of weariness.<br>
 
-But not a blooming garden,<br>
-not green, not full of promise.<br>
-What remained was a field of dead roots,<br>
-soil that no longer accepts seeds.<br>
+The ground holds traces of light footsteps,<br>
+but no longer asks for a path.<br>
+Roots sleep beneath the earth,<br>
+and the air around<br>
+seems to carry a warm memory.<br>
 
-What remained was me.<br>
+I remained as well.<br>
+Or perhaps I kept staying<br>
+with the hours that slip from an unfinished gesture.<br>
 
-The butterfly left with lightness,<br>
-and I sank beneath the weight —<br>
-the weight of consequence.<br>
-She took the brightness with her,<br>
-and left me with the shadow —<br>
-the shadow of uncertainty.<br>
+She went on <br>
+like a flight that does not repeat itself,<br>
+but leaves in the sky<br>
+the memory of having been possible.<br>
 
-The sunflower that had bloomed for her<br>
-withered unseen.<br>
-No petal remains.<br>
-It no longer turns to the sun, nor bends to the wind.<br>
+The weight arrived slowly,<br>
+settling on my shoulders<br>
+like time when it no longer needs to be measured.<br>
 
-And now the metaphysical self walks this barren field,<br>
-speaking to flowers that do not exist,<br>
-praying to verses no one reads,<br>
-shouting a name that no longer answers.<br>
+Where the sunflower once bloomed,<br>
+the earth shelters a yellow silence.<br>
+There is still a hint of light<br>
+in the way the leaves lie still.<br>
 
-"You wanted the poem to touch —<br>
-and it did.<br>
-But it did not touch her.<br>
-It touched only you.<br>
-Like a blade that touches its own hand.<br>
+The body walks among shapes<br>
+that never needed to exist.<br>
+It speaks words that expect no hearing.<br>
+A prayer folds itself<br>
+midway through the sentence.<br>
 
-You wrote with the blood of adoration,<br>
-and she read with the eyes of distraction.<br>
-If she read.<br>
+The name endures —<br>
+and that is enough.<br>
 
-If she even looked.<br>
+The poem touched where the skin was open.<br>
+It made a home.<br>
+It remains in the flesh,<br>
+even if the eyes never gathered it.<br>
 
-Now, the garden is something else —<br>
-it is posthumous.<br>
-Each part of it tells you:<br>
-It’s not just that she didn’t return.<br>
-It’s that no one ever will."<br>
+Perhaps it was read,<br>
+or merely brushed by the wind.<br>
+But what is offered<br>
+does not ask to be received.<br>
 
-Because the soil has closed.<br>
-Because the miracle was only once.<br>
-Because beauty, when burned,<br>
-becomes a curse.<br>
+The garden aligns with time.<br>
+Falling petals<br>
+take part in a dance<br>
+without audience.<br>
 
-No new sunflower will be born.<br>
-No new wings will come.<br>
+Nothing here waits for miracles.<br>
+Beauty fulfilled its cycle<br>
+in the instant it was whole.<br>
 
-Only the echo of a gesture no one saw,<br>
-only the memory of a light<br>
-that never reached the heart it was meant for.<br>
+No wing returns,<br>
+but in the air<br>
+there is a trembling from an ancient flight.<br>
 
-And I, who was once a temple,<br>
-am now a ruin.<br>
+The gesture remains,<br>
+even if no one saw it.<br>
+The gleam remains,<br>
+even if it never reached its intended heart.<br>
 
-And I, who was once a verse,<br>
-am now the silence between verses.<br>
+And I, who once sheltered that presence,<br>
+am now open space,<br>
+folded inward.<br>
 
-And I, who was once the garden,<br>
-am now the dust.<br>
-The dust that still waits,<br>
-that still dreams,<br>
-but knows —<br>
-knows with the firm pain of knowing —<br>
-that no other butterfly will come.<br>
+And I, who once spoke in verses,<br>
+am the pause between sounds.<br>
+
+And I, who was a garden,<br>
+am light matter,<br>
+carried by breath alone.<br>
+
+I remain.<br>
+In the dream that still moves,<br>
+in the waiting that asks for no shape,<br>
+knowing —<br>
+knowing without wound —<br>
+that there was flight.<br>
+
+And that is real.

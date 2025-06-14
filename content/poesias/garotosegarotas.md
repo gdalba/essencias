@@ -28,8 +28,8 @@ sentem saudades.<br>
 
 Garotos e garotas<br>
 perderam o colo e o sermão<br>
-no abrigo da solidão:<br>
-ganharam contas, corações quebrados,<br>
+no abrigo da solidão.<br>
+Ganharam contas, corações quebrados,<br>
 uma caixa de angústias e uma gota de depressão.<br>
 
 Aqueles que sobrevivem agora fornecem colo de mãe,<br>

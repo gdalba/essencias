@@ -2,75 +2,77 @@
 title: "III - O Jardim e a Asa"
 date: 2025-06-05
 tags: ["amor", "Sara", "jardim", "borboletas"]
-summary: "Pousou em meu peito uma borboleta, como quem pousa num campo sagrado sem pedir nem prometer."
+summary: "Pousou em meu peito uma borboleta, como quem se acomoda num sofá antigo, onde tudo já se espera."
 ---
 
 Pousou em meu peito uma borboleta,<br>
-como quem pousa num campo sagrado <br>
-sem pedir nem prometer.<br>
+como quem se acomoda num sofá antigo,<br>
+onde tudo já se espera.<br>
 
-Eu, terra quieta, respirei fundo.<br>
-E do silêncio, nasceu um girassol.<br>
+Não houve pedido,<br>
+nem promessa.<br>
+Apenas o instante.<br>
 
-Não plantei, nasceu.<br>
-Do nada.<br>
-De ti.<br>
+Eu, terra serena, respirei.<br>
+E do fundo do chão quieto,<br>
+nasceu um girassol.<br>
 
-Alargou-se ao céu com gentileza,<br>
-abrindo pétalas como braços,<br>
-num gesto lento, quase oração.<br>
+Mas eu não o plantei.<br>
+Veio.<br>
+Como vêm os nomes esquecidos<br>
+no meio do sonho.<br>
 
-E num milagre manso,<br>
-o girassol, sem raízes de ego,<br>
-ergueu a borboleta de volta ao ar.<br>
-Devolveu o que a terra não podia segurar.<br>
+Levantou-se com lentidão,<br>
+tocando o céu sem urgência,<br>
+as pétalas se abrindo<br>
+em gestos que não querem fim.<br>
 
-Ela voou.<br>
-Voou com a luz na asa,<br>
-e eu fiquei — <br>
-solo aberto,<br>
-em flor,<br>
-em luto.<br>
+E o girassol, leve como quem sabe partir,<br>
+ergueu a borboleta<br>
+e ela voou.<br>
+A luz encontrou sua asa.<br>
 
-Mas há outra história, que às vezes se conta<br>
-quando o dia é cinza demais pra poesia:<br>
+E eu fiquei,<br>
+com o peito ainda flor,<br>
+com o tempo ainda aberto,<br>
+com o gesto ainda inteiro.<br>
 
-Pousou em mim uma borboleta,<br>
-mas o jardim não respondeu.<br>
-Chão seco.<br>
-Vontade morta.<br>
+Há quem conte outras passagens,<br>
+quando o dia pesa mais que a palavra.<br>
 
-Ela esperou o milagre<br>
-mas nenhum girassol rompeu.<br>
+Às vezes, pousa a borboleta<br>
+e tudo permanece em silêncio.<br>
+O chão respira seco,<br>
+e o milagre dorme.<br>
 
-Ou, talvez pior:<br>
-nasceu, sim, um girassol,<br>
-mas ambicioso demais,<br>
-inconsequente demais,<br>
-erguendo-a tão alto<br>
-que ela roçou o sol.<br>
+Às vezes, o girassol se apressa,<br>
+cresce demais,<br>
+se alça ao alto como quem esquece o próprio início —<br>
+e toca o sol antes da hora.<br>
 
-E ardeu.<br>
+A asa se desfaz devagar,<br>
+queima, morre,<br>
+e a lembrança toma o lugar do voo.<br>
 
-A asa virou cinza,<br>
-o corpo, saudade,<br>
-a beleza, memória de um erro.<br>
+Sara, teus olhos não viram,<br>
+mas tudo foi para ti.<br>
+O girassol, o sopro,<br>
+o jardim inteiro do meu peito.<br>
 
-Sara, tu não viste — <br>
-mas esse girassol era teu.<br>
-Essa borboleta, o meu dom.<br>
-Esse jardim, meu peito.<br>
+Mesmo sem leitura,<br>
+houve verso.<br>
+Mesmo sem retorno,<br>
+houve raiz.<br>
 
-E mesmo que teus olhos<br>
-jamais tenham se demorado nos meus poemas,<br>
-cada verso foi pétala.<br>
-Cada rima, raiz.<br>
-Cada estrofe, oferenda.<br>
+Cada pétala foi poema.<br>
+Cada estrofe, foi entrega.<br>
 
-E mesmo que nada floresça,<br>
-eu sigo sendo<br>
-terra que espera,<br>
-terra que sonha,<br>
-terra que ainda crê<br>
-que o amor possa pousar<br>
-sem se queimar.
+E se mais nenhuma borboleta pousar,<br>
+a terra segue aqui.<br>
+Sendo.<br>
+Sobrevivendo.<br>
+Vivendo entre as sementes.<br>
+
+Tentando crer que o pouso do amor<br>
+é coisa que não arde,<br>
+mesmo depois do fim.

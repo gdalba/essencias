@@ -6,70 +6,87 @@ summary: "Depois que ela voou, ficou o jardim."
 ---
 
 Depois que ela voou, ficou o jardim.<br>
+Ficou como ficam as coisas que foram vistas demais:<br>
+quieto,<br>
+envolto por uma espécie de cansaço.<br>
 
-Mas não um jardim florido,<br>
-nem verde, nem promissor.<br>
-Ficou um campo de raízes mortas,<br>
-um chão que não aceita mais semente.<br>
+O chão guarda vestígios de passos leves,<br>
+mas não pede mais caminho.<br>
+As raízes adormecem sob a terra,<br>
+e o ar, ao redor,<br>
+parece conter uma memória submissa.<br>
 
-O que ficou fui eu.<br>
+Eu fiquei junto.<br>
+Ou talvez fui ficando<br>
+com as horas que escorrem do gesto interrompido.<br>
 
-A borboleta partiu com leveza,<br>
-e eu afundei com o peso —<br>
-o peso das consequências.<br>
-Ela levou consigo o brilho<br>
-e deixou comigo a sombra —<br>
-a sombra das incertezas.<br>
+Ela se foi<br>
+como o voo que não se repete,<br>
+mas deixa no espaço<br>
+a lembrança de ter sido possível.<br>
 
-O girassol que nasceu por ela<br>
-murchou sem testemunha.<br>
-Nem pétala restou.<br>
-Não gira ao sol, nem dobra ao vento.<br>
+O peso chegou devagar,<br>
+foi se acomodando nos ombros,<br>
+como o tempo quando não se mede mais.<br>
 
-E agora o eu metafísico caminha nesse campo seco<br>
-falando com flores que não existem,<br>
-rezando a versos que ninguém lê,<br>
-gritando um nome que não lhe responde.<br>
+Ali onde nasceu o girassol,<br>
+a terra abriga um silêncio amarelo.<br>
+Há algo de luz ainda<br>
+no modo como as folhas repousam.<br>
 
-"Tu querias que o poema tocasse<br>
-e ele tocou.<br>
-Mas não tocou nela.<br>
-Tocou só em ti.<br>
-Como lâmina que toca a própria mão.<br>
+O corpo caminha entre formas<br>
+que nunca precisaram existir.<br>
+Dirige palavras que não esperam escuta.<br>
+Há uma prece que se dobra sozinha<br>
+no meio da frase.<br>
 
-Escreveu com o sangue da adoração,<br>
-e ela leu com os olhos da distração.<br>
-Se leu.<br>
+O nome persiste —<br>
+e isso basta.<br>
 
-Se sequer olhou.<br>
+O poema tocou onde era pele aberta.<br>
+Fez morada.<br>
+Permanece na carne,<br>
+mesmo que os olhos não o tenham recolhido.<br>
 
-Agora, o jardim é outro,<br>
-é póstumo.<br>
-Cada parte dele que te diz:<br>
-não é só que ela não voltou.<br>
-É que nenhuma voltará.”<br>
+Talvez tenha sido lido,<br>
+ou apenas tocado pelo vento.<br>
+Mas o que se entrega<br>
+não pede confirmação.<br>
 
-Porque o solo se fechou.<br>
-Porque o milagre era só uma vez.<br>
-Porque a beleza, quando queimada,<br>
-vira maldição.<br>
+O jardim se alinha ao tempo.<br>
+As pétalas que caem<br>
+fazem parte de uma dança<br>
+sem plateia.<br>
 
-Não nascerá novo girassol.<br>
-Não haverá nova asa.<br>
+Nada aqui espera milagre.<br>
+A beleza cumpriu seu ciclo<br>
+no instante em que foi inteira.<br>
 
-Só o eco de um gesto que ninguém viu,<br>
-só a memória de um brilho que não tocou o coração que era destino.<br>
+Nenhuma asa retorna,<br>
+mas há no ar<br>
+uma vibração de voo antigo.<br>
 
-E eu, que fui templo,<br>
-sou agora ruína.<br>
+Ficou o gesto,<br>
+mesmo que ninguém o tenha visto.<br>
+Ficou o brilho,<br>
+mesmo que não tenha chegado ao destino.<br> 
 
-E eu, que fui verso,<br>
-sou agora silêncio entre os versos.<br>
+E eu, que abrigava essa presença,<br>
+sou agora espaço aberto,<br>
+recolhido em si.<br>
 
-E eu, que fui o jardim,<br>
-sou agora o pó.<br>
-O pó que ainda espera,<br>
-que ainda sonha,<br>
-mas sabe —<br>
-sabe com a dor firme de quem sabe —<br>
-que não virá outra borboleta.
+E eu, que dizia em versos,<br>
+sou o intervalo entre sons.<br>
+
+E eu, que fui jardim,<br>
+sou matéria leve,<br>
+carregada pelo próprio fôlego.<br>
+
+Permaneço.<br>
+No sonho que ainda se move,<br>
+na espera que não exige forma,<br>
+sabendo —<br>
+sabendo sem ferida —<br>
+que houve voo.<br>
+
+E isso existe.

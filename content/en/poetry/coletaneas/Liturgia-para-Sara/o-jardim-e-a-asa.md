@@ -2,75 +2,77 @@
 title: "III - The Garden and the Wing"
 date: 2025-06-05
 tags: ["love", "Sara", "garden", "butterflies"]
-summary: "A butterfly landed on my chest, as one might land on sacred ground without asking, without promising."
+summary: "A butterfly landed on my chest, like one who settles into an old couch, where everything has already been waiting."
 ---
 
 A butterfly landed on my chest,<br>
-as one might land on sacred ground<br>
-without asking, without promising.<br>
+like one who settles into an old couch,<br>
+where everything has already been waiting.<br>
 
-I, quiet earth, breathed deep.<br>
-And from the silence, a sunflower was born.<br>
+There was no asking,<br>
+no promise.<br>
+Only the moment.<br>
 
-I did not plant it, it was born.<br>
-From nothing.<br>
-From you.<br>
+I, serene earth, breathed in.<br>
+And from the depth of quiet ground,<br>
+a sunflower was born.<br>
 
-It stretched skyward with gentleness,<br>
-unfolding petals like arms,<br>
-in a slow gesture, almost a prayer.<br>
+But I did not plant it.<br>
+It came.<br>
+As forgotten names come<br>
+in the middle of a dream.<br>
 
-And in a tender miracle,<br>
-the sunflower, with no roots of ego,<br>
-lifted the butterfly back into the air.<br>
-Returned what earth could not hold.<br>
+It rose slowly,<br>
+touching the sky without urgency,<br>
+its petals unfolding<br>
+in gestures that do not wish to end.<br>
 
-She flew.<br>
-Flew with light on her wings,<br>
-and I remained —<br>
-open soil,<br>
-in bloom,<br>
-in mourning.<br>
+And the sunflower, light as one who knows how to leave,<br>
+lifted the butterfly,<br>
+and she flew.<br>
+The light found her wings.<br>
 
-But there is another story, sometimes told<br>
-when the day is too gray for poetry:<br>
+And I remained,<br>
+my chest still in bloom,<br>
+my time still open,<br>
+my gesture still whole.<br>
 
-A butterfly landed on me,<br>
-but the garden did not respond.<br>
-Dry ground.<br>
-Will gone.<br>
+Some speak of other passages,<br>
+when the day grows heavier than words.<br>
 
-She waited for the miracle<br>
-but no sunflower broke through.<br>
+Sometimes, the butterfly lands<br>
+and all remains silent.<br>
+The ground breathes dry,<br>
+and the miracle sleeps.<br>
 
-Or, perhaps worse:<br>
-a sunflower did grow,<br>
-but too ambitious,<br>
-too reckless,<br>
-lifting her so high<br>
-she brushed the sun.<br>
+Sometimes, the sunflower rushes,<br>
+grows too tall,<br>
+reaches high as if forgetting its own beginning —<br>
+and touches the sun before its time.<br>
 
-And burned.<br>
+The wing unravels slowly,<br>
+burns, fades,<br>
+and memory takes the place of flight.<br>
 
-Her wings turned to ash,<br>
-her body, longing,<br>
-her beauty, memory of a mistake.<br>
+Sara, your eyes did not see,<br>
+but it was all for you.<br>
+The sunflower, the breath,<br>
+the entire garden of my chest.<br>
 
-Sara, you did not see —<br>
-but that sunflower was yours.<br>
-That butterfly, my gift.<br>
-That garden, my chest.<br>
+Even unread,<br>
+there were verses.<br>
+Even unanswered,<br>
+there were roots.<br>
 
-And even if your eyes<br>
-never lingered on my poems,<br>
-every verse was a petal.<br>
-Every rhyme, a root.<br>
-Every stanza, an offering.<br>
+Each petal was a poem.<br>
+Each stanza, an offering.<br>
 
-And even if nothing blossoms,<br>
-I remain<br>
-soil that waits,<br>
-soil that dreams,<br>
-soil that still believes<br>
-that love might land<br>
-without burning.
+And if no other butterfly ever lands,<br>
+the earth remains here.<br>
+Being.<br>
+Enduring.<br>
+Living among the seeds.<br>
+
+Still trying to believe that love’s landing<br>
+is something that does not burn,<br>
+even after the end.
