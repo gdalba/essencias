@@ -8,7 +8,7 @@ cover:
     image: "2198f-dualidade.jpg"
 ---
 
-## Nem Sempre
+## Not Always
 
 Sometimes I write about love,<br>
 not always.<br>
