@@ -3,7 +3,7 @@ title: "Letter To God"
 date: 2025-06-10
 draft: false
 tags: ["poetry", "self-portrait", "God", "existentialism"]
-summary: "... mergulho o braço, o tronco, o cansaço e a vergonha."
+summary: "God, may she have shared with me the beauty of the sky licking the mountain’s back in orange tones"
 cover:
     image: "10-june.png"
 ---

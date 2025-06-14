@@ -3,7 +3,7 @@ title: "Not Always"
 date: 2025-06-03
 draft: false
 tags: ["poetry", "duality", "identity", "contradiction"]
-summary: "Às vezes escrevo sobre borboletas, nem sempre."
+summary: "Sometimes I write about butterflies, not always."
 cover:
     image: "2198f-dualidade.jpg"
 ---
