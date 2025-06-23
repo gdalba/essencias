@@ -25,13 +25,13 @@ onde algo me faltava.
 
 ### II
 
-Às vezes a Lua se deita nos telhados<br>
+Às vezes, Lua se deita nos telhados<br>
 e em seus buracos ressoam ecos da minha infância.<br>
 
-Às vezes a Lua afia suas unhas no céu<br>
+Às vezes, Lua afia suas unhas no céu<br>
 e me arranha com memórias esquecidas.<br>
 
-Às vezes a Lua me bebe devagar<br>
+Às vezes, Lua me bebe devagar<br>
 como veneno derramado no tempo.<br>
 
 E às vezes, apenas às vezes,<br>
@@ -56,7 +56,7 @@ Tua ausência pesa<br>
 mais do que tua luz.<br>
 Mas és poder grifado nas leis da física,<br>
 sinal para as flores alçarem<br>
-o voo prévio da existência,<br>
+o voo breve da existência,<br>
 antítese daquilo que se manifesta como fim.<br>
 
 No escuro,<br>

@@ -3,7 +3,7 @@ title: "Sometimes, Moon"
 date: 2025-06-22
 draft: false
 tags: ["poetry", "moon"]
-summary: "Sometimes the Moon lies down on rooftops, and in her craters echo the sounds."
+summary: "Sometimes the Moon lies down on rooftops, and in her craters echo the sounds of my childhood."
 cover:
     image: "age-of-moon.jpg"
 ---
@@ -24,15 +24,15 @@ where something once lacked in me.<br>
 
 ### II
 
-Sometimes the Moon lies down on rooftops,<br>
+Sometimes, Moon lies down on rooftops,<br>
 and in her craters echo the sounds<br>
 of my childhood.<br>
 
-Sometimes the Moon sharpens her nails on the sky,<br>
+Sometimes, Moon sharpens her nails on the sky,<br>
 and scratches me<br>
 with forgotten memories.<br>
 
-Sometimes the Moon drinks me slowly,<br>
+Sometimes, Moon drinks me slowly,<br>
 like venom spilled through time.<br>
 
 And sometimes, only sometimes,<br>
@@ -57,7 +57,7 @@ Your absence weighs<br>
 more than your light.<br>
 Yet you are power, etched in the laws of physics,<br>
 a signal for flowers to begin<br>
-their pre-flight toward existence,<br>
+their brief flight toward existence,<br>
 an antithesis of what we mistake for an end.<br>
 
 In the dark,<br>
