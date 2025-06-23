@@ -5,7 +5,7 @@ draft: false
 tags: ["poesia", "auto-retrato", "depressão"]
 summary: "Ontem, por descuido, olhei o calendário."
 cover:
-    image: "menzel.jpg"
+    image: "Menzel.jpg"
 ---
 
 ## Calendário das Monotonias

@@ -5,7 +5,7 @@ draft: false
 tags: ["poetry", "self-portrait", "depression"]
 summary: "Yesterday, by accident, I looked at the calendar."
 cover:
-    image: "menzel.jpg"
+    image: "Menzel.jpg"
 ---
 
 ## Calendar of Monotony
