@@ -47,7 +47,7 @@ then, more quietly, feel sorry for me.<br>
 And you,  do you feel sorry for me?<br>
 I do. I feel terribly sorry for you.<br>
 
-I hope the bile of life slowly spoils,<br>
+And I hope the bile of life slowly spoils,<br>
 and that the body I inhabit withers with it.<br>
 And that no one ever pities me again.<br>
 And that I never again pity anyone.<br>
