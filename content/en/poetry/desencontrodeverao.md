@@ -11,7 +11,7 @@ cover:
 ## Summer Mismeeting
 
 It’s the summer of twenty twenty-two,<br>
-and we missed each other.<br>
+and we mismet each other.<br>
 Partners? We were never partners.<br>
 We were clumsy and unfortunate enough<br>
 to find each other<br>
