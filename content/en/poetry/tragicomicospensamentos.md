@@ -37,8 +37,8 @@ could challenge the guilt that<br>
 is entirely mine.<br>
 
 In repentance, I pray every day<br>
-to God, to fate, to whatever.<br>
-I’ve become a gambling addict:<br>
+to God, to fate, to whatever,<br>
+to my gambling addiction:<br>
 if this rose grows, she’ll come back to me.<br>
 If this food doesn’t burn, she’ll return.<br>
 If a white car passes by, she’s mine again.<br>

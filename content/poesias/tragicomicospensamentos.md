@@ -38,8 +38,8 @@ tivesse força pra desafiar<br>
 a culpa que é só minha.<br>
 
 Em arrependimento, rezo todos os dias:<br>
-a Deus, ao destino, a qualquer coisa,
-virei mais um viciado em apostas:<br>
+a Deus, ao destino, a qualquer coisa,<br>
+ ao meu vício em apostas:<br>
 se essa rosa crescer, ela volta pra mim.<br>
 Se essa comida não queimar, ela volta.<br>
 Se passar um carro branco...<br>
