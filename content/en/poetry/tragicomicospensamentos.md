@@ -3,7 +3,7 @@ title: "Tragicomic Thoughts"
 date: 2025-06-26
 draft: false
 tags: ["poetry", "depression", "absurdism"]
-summary: "E um dia, vou morrer. E essa tragicômica palhaçada morre comigo."
+summary: "And one day I’ll die. And this whole tragicomic farce will die with me."
 ---
 
 A few months ago, my love left me.<br>
