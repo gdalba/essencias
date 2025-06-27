@@ -47,7 +47,7 @@ depois, baixinho, sentem pena de mim.<br>
 E você, sente pena de mim?<br>
 Eu, sim, sinto muita pena de ti.<br>
 
-Espero que a bile da vida vá estragando,<br>
+E espero que a bile da vida vá estragando,<br>
 aos pouquinhos, e definhando vá o corpo<br>
 em que habito.<br>
 E que ninguém mais sinta pena de mim.<br>
