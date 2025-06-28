@@ -29,7 +29,7 @@ a miséria ganha grandeza de verdade.<br>
 Ao colocar a dor psicológica num campo de batalha<br>
 ele dá corpo a ela.<br>
 E ao dar corpo a ela, ele a torna visível.<br>
-E ao torná-la visível, ele a tornas suportável<br>
+E ao torná-la visível, ele a torna suportável<br>
 E devolvível ao planetazinho desse só mais um sistema solar<br>
 onde é mais um de oito bilhões, <br>
 ou seja lá o que essa matemática errada resolve dar.<br>
