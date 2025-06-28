@@ -12,7 +12,7 @@ aos generais deste exército moribundo:<br>
 venceu as últimas duas batalhas.<br>
 
 Há quem já perdeu as esperanças,<br>
-hás o covardes e os vagabundos,<br>
+há os covardes e os vagabundos,<br>
 mas ainda gritam os vivos nas trincheiras,<br>
 mas há ainda muita guerra lá no front."
 
