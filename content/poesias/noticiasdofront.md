@@ -8,7 +8,7 @@ summary: "Mas há ainda muita guerra lá no front."
 
 Envio este telegrama<br>
 aos generais deste exército moribundo:<br>
-"Aviso: a depressão<br>
+"Aviso! a depressão<br>
 venceu as últimas duas batalhas.<br>
 
 Há quem já perdeu as esperanças,<br>
