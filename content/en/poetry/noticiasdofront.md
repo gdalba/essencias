@@ -1,5 +1,5 @@
 ---
-title: "News from the Front"
+title: "News from the Front I"
 date: 2025-06-27
 draft: false
 tags: ["poetry", "depression", "war"]

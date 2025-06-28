@@ -1,5 +1,5 @@
 ---
-title: "Notícias do front"
+title: "Notícias do front I"
 date: 2025-06-27
 draft: false
 tags: ["poesia", "depressão", "guerra"]

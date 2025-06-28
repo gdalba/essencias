@@ -3,7 +3,7 @@ title: "News from the Front II"
 date: 2025-06-27
 draft: false
 tags: ["poetry", "depression", "war"]
-summary: "Mas há ainda muita guerra lá no front."
+summary: "News: depression has won the last two battles."
 ---
 
 I send this apocryphal telegram,<br>
@@ -19,7 +19,7 @@ It won without honor, as always do<br>
 the things that kill us from the inside.<br>
 No tanks, no gunfire, no grenades,<br>
 just the weight of waking up to yet another morning<br>
-without reason, without purpose, without coffee.”<br>
+without reason, without purpose, without coffee.<br>
 
 There are those who’ve already lost hope —<br>
 deserters of their own minds,<br>
@@ -55,5 +55,5 @@ And maybe — who knows —<br>
 there’s still a midnight yet to come<br>
 where from afar one might hear<br>
 the limping march<br>
-of those who keep trying.<br>
+of those who keep trying."<br>
 
