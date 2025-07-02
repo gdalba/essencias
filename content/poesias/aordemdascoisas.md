@@ -13,7 +13,9 @@ de idade, morrendo de saudade.<br>
 Naquele um milésimo de segundo sem ela,<br>
 sem Sara, morrera em plena solitude.<br>
 
-Portanto Gabriel pensa em deixar as janelas sempre bem abertas<br>
+Hoje, o futuro dela é festa. O dele, desalinho.<br>
+O Gabriel, esse coitado, vai morrer é bem sozinho.<br>
+Portanto, Gabriel pensa em deixar as janelas sempre bem abertas<br>
 para que o fedor do morto enfim atraia os vizinhos.<br>
 
 Enterrarás os seus pais,<br>
@@ -25,7 +27,7 @@ Mas por que dói tanto a ordem natural das coisas?<br>
 Seria melhor talvez chorar pela morte sem a Sara,<br>
 ela também não chorará por Gabriel,<br>
 e talvez chorar por outras coisas<br>
-tenha um valor senitmental.<br>
+tenha um valor sentimental.<br>
 
 Mas Sara morrerá com outro, num futuro<br>
 e ele chorará naquele um segundo<br>

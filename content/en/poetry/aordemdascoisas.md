@@ -12,8 +12,10 @@ of old age, dying of longing.<br>
 In that one millisecond without her,<br>
 without Sara, he died, in utter solitude.<br>
 
-So Gabriel thinks of keeping the windows always wide open,<br>
-so the stench of the dead might finally attract the neighbors.<br>
+Today, her future is all bright lights. His is disarray.<br>
+Poor Gabriel, that sad old fool, he’ll die alone one day.<br>
+And so, he thinks it’s wise to keep the windows open wide,<br>
+so the stench of the dead might bring the neighbors to his side.<br>
 
 You will bury your parents,<br>
 and you will cry over the natural order of things.<br>
