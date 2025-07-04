@@ -31,7 +31,7 @@ then where shall we look?<br>
 But even in the most<br>
 mundane lives, things change.<br>
 Loves arrive,<br>
-they rattle the factory of existence,<br>
+they rattle the fabric of existence,<br>
 and then they go away.<br>
 They leave us sorrowful…<br>
 But then we forget,<br>
