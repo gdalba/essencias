@@ -1,9 +1,9 @@
 ---
-title: "A Mão no Sonho"
+title: "The Hand in My Dream"
 date: 2025-07-07
 draft: false
-tags: ["poesia", "sonho", "luto"]
-summary: "As lágrimas lavaram até o que não devia."
+tags: ["poetry", "dream", "grief"]
+summary: "The tears washed my soul."
 cover:
     image: "493091504_1004252328461584_1551965538697220149_n.jpg"
 ---
