@@ -1,5 +1,5 @@
 ---
-title: "The Dream 1901"
+title: "O Sonho Mil Novecentos e Um"
 date: 2025-07-08
 draft: false
 tags: ["poetry", "dream", "grief"]
