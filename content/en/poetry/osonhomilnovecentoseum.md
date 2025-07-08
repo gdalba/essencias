@@ -3,7 +3,7 @@ title: "The Dream 1901"
 date: 2025-07-08
 draft: false
 tags: ["poetry", "dream", "grief"]
-summary: "este tem gosto daquela vez que você me magoou."
+summary: "this one tastes like the time you hurt me.”
 cover:
     image: "476053639_18055992953061731_2520088792803143750_n.jpg"
 ---

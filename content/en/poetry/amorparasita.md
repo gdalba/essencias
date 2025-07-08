@@ -3,7 +3,7 @@ title: "The Theory of the Parasitic Love"
 date: 2025-07-08
 draft: false
 tags: ["poetry", "parasitism", "love"]
-summary: "São amores que vivem do amor (alheio)."
+summary: "They are loves that survive on the love of others."
 cover:
     image: "475985570_18055967774061731_8989426363662764199_n.jpg"
 ---
