@@ -4,6 +4,8 @@ date: 2025-07-12
 draft: false
 tags: ["poetry", "Sara", "love"]
 summary: "She still surfaces sans summoning."
+cover:
+    image: "Portinari-MeninacomTrançaseLacos51956.jpg"
 ---
 
 Say:<br>
@@ -89,3 +91,6 @@ soul sterile,<br>
 suffering,<br>
 still seeking<br>
 some salvation.
+
+--
+Painting: Candido Portinari, 1956. The Girl with combs.

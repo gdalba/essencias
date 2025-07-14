@@ -4,6 +4,8 @@ date: 2025-07-12
 draft: false
 tags: ["poesia", "Sara", "amor"]
 summary: "Sou só sopro, sua sucata sentimental sem substância."
+cover:
+    image: "Portinari-MeninacomTrançaseLacos51956.jpg"
 ---
 
 Sabe-se se Sara<br>
@@ -87,3 +89,6 @@ ser seco sentado<br>
 sob surdos sentimentos,<br>
 sofrendo sem saber<br>
 se sara.
+
+--
+Candido Portinari, 1956. Menina com Tranças.
