@@ -10,43 +10,27 @@ cover:
 
 ## Slices
 
-When the next woman sits beside me<br>
-and, between sips, asks if I’m romantic,<br>
-I’ll say:<br>
-“Am I? No. I was!”<br>
+A woman, eventually, will sit beside me<br>
+and — with a dying kind of innocence — she'll ask<br>
+if I’ve ever loved.<br>
+And I’ll say yes.<br>
+And that I never will again.<br>
 
-I won’t say it out of bitterness.<br>
-Bitterness is a right I barely deserve<br>
-(though I do taste of it).<br>
-No, it’s just that what I had, I gave.<br>
-Gave without measure, without caution,<br>
-without a backup plan.<br>
+She’ll get curious, of course, and bother me profoundly.<br>
+And I’ll be forced to summon the filthiest metaphors I’ve got:<br>
+That love and hunger are sisters, one leans on the other.<br>
+We love and go hungry, and eventually,<br>
+we hunger for love.<br>
 
-Love, I thought,<br>
-was meant to be handed over whole<br>
-like fresh bread from the oven:<br>
-you share it with whoever’s hungry,<br>
-and you eat too, and you sin in gluttony,<br>
-only to realize,<br>
-on the third day without food,<br>
-that you’re starving too.<br>
+This poor thing who sat by my side<br>
+will come to see I’ve starved before.<br>
+That now I feed<br>
+on poetry and back-alley philosophy.<br>
 
-To this new one, to this whoever she may be, nothing remains.<br>
-Not even a crust left on the plate.<br>
-Poor thing — she arrived after the feast,<br>
-when the floor was already being swept<br>
-of what was left of the two of us.<br>
-
-Poor thing, mind you.<br>
-No one told me love was meant to be rationed.<br>
-A slice today, another tomorrow,<br>
-save some here, a bit there,<br>
-in case winter came early.<br>
-
-But if you decide to stay, poor thing, you shall serve me to philosophy.<br>
-Tell me: why, to her,<br>
-I gave everything<br>
-and still<br>
-she was starving?
+And then, poor soul,<br>
+she’ll have to answer me this:<br>
+how could the one who came before —<br>
+who ate every last thing I had —<br>
+still died of hunger?
 
 

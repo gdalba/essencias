@@ -8,21 +8,19 @@ cover:
     image: "493091504_1004252328461584_1551965538697220149_n.jpg"
 ---
 
-She reached out her hand.<br>
-Just like that.<br>
-She said nothing.<br>
+She reached out her hand<br>
+and said nothing.<br>
 She didn’t need to.<br>
 In that open palm<br>
 was all the tenderness in the world,<br>
-all the guilt in the world,<br>
-the whole world.<br>
+and all the guilt in the world,<br>
+and all the whole world.<br>
 
 And on her face,<br>
-soft,<br>
+soft, sweet face,<br>
 was born a smile<br>
 of someone who<br>
-never<br>
-stopped loving me.<br>
+never stopped loving me.<br>
 
 And I cried so much, my God!<br>
 How I cried.<br>
@@ -31,34 +29,23 @@ my fears all defeated,<br>
 my paranoias shelved<br>
 for later.<br>
 
-Then I —<br>
-trembling like a letter forgotten in a drawer,<br>
-with the eyes of someone who saw the love of their life<br>
-close the door slowly,<br>
-as if with pity,<br>
-but without return —<br>
+Then I, trembling,<br>
 accepted.<br>
 
-I did so with an ancient fear,<br>
+I did so with absolute fear,<br>
 with the absurd dread<br>
-of losing what’s already gone.<br>
-As if there were still time<br>
-to save<br>
-the irreparable.<br>
+of losing what was already gone.<br>
+Hopelessly hoping there were still time<br>
+to save the irreparable.<br>
 
 And I was so happy!<br>
 
-But dreams do not lie.<br>
-Dreams simply echo<br>
-in silence<br>
-what waking life<br>
-screams.<br>
-
-I woke up with my hand still raised.<br>
-No other hand touched mine.<br>
+But dreams, alas, do not lie.<br>
+And so I woke up with my hand still raised,<br>
+yet no other hand was there to touch mine.<br>
 The house was quiet.<br>
-Construction noises<br>
-woke me up, already tired.<br>
+Construction noises woke me up,<br>
+already tired.<br>
 The room still intact.<br>
 The body still whole<br>
 except for the heart,<br>
