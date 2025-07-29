@@ -24,7 +24,7 @@ Odeio meus olhos<br>
 e suas incapacidades de enxergarem no mundo<br>
 o não ódio das coisas.<br>
 
-Odeio as ruas lavadas de um domingo em branco.<br>
+Odeio as ruas lavadas de um domingo tranquilo.<br>
 Odeio o brilho de vitrines que não me querem.<br>
 Odeio o tilintar exato do relógio <br>
 como se o tempo tivesse direito de seguir.<br>

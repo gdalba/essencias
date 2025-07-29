@@ -34,7 +34,7 @@ E eu ria. Respondia<br>
 e prove este do amor<br>
 de amanhã."<br>
 E, por um instante,<br>
-fui feliz com raiva.<br>
+fui feliz.<br>
 
 Então veio a multidão.<br>
 Gente que não conheço.<br>

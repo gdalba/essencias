@@ -25,7 +25,7 @@ and their inability to see,<br>
 in the world,<br>
 a place not full of hate for things.<br>
 
-I hate the streets scrubbed clean on blank Sundays.<br>
+I hate the streets scrubbed clean on boring Sundays.<br>
 I hate the shine of storefronts that never want me.<br>
 I hate the precise ticking of the clock<br>
 as if time had the right to go on.<br>
