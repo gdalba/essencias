@@ -8,59 +8,40 @@ cover:
     image: "475985570_18055967774061731_8989426363662764199_n.jpg"
 ---
 
-You wanted me the way one wants a remedy<br>
-for an illness with no name.<br>
-You wanted my laughter<br>
-to feed your silences,<br>
-my plans<br>
-to cover your voids.<br>
+You desired me as a cure for an incurable disease.<br>
+You wanted my laughter to devour your silences.<br>
+You wanted my plans to line the walls of your emptiness.<br>
+You wanted my certainties to quiet your doubts.<br>
+But when I was neither cure nor source of laughter,<br>
+and neither planned nor struck true,<br>
+you called me a pitiful boredom.<br>
 
-You wanted my certainties<br>
-to hush your doubts.<br>
-And when I wasn’t a cure —<br>
-when I was just a person —<br>
-you called me boring.<br>
+Thus I was marked,<br>
+skin seared by the cold iron of lying loves,<br>
+and, in the desperation of madness, I forged the theory of parasitic loves,<br>
+and I gave it your name,<br>
+your name, your shape,<br>
+your slightly sad thoughts.<br>
 
-And so I remained,<br>
-marked on the skin<br>
-with the cold iron of dishonest loves,<br>
-the kind that say “I love you”<br>
-before knowing what it costs.<br>
+The theory states that parasites are loves<br>
+that live off another’s love.<br>
+That kill, cruelly, even the image of God.<br>
+That feed, and leave, and sometimes starve,<br>
+and beg for another victim.<br>
+And you, who in theory loved me,<br>
+vomited when I needed love.<br>
 
-There is a theory about parasitic love,<br>
-and it bears your name.<br>
-Your name, your form,<br>
-your slightly melancholic thoughts.<br>
+Then, you grew tired.<br>
 
-They are loves that survive on<br>
-the love of others.<br>
-They suck the pulp, spit out the seed<br>
-of the only fruit the other carries.<br>
-That fruit God handed out saying:<br>
-“take this and deal with it.<br>
-if it spoils, tough.<br>
-if it lasts, I’ll fix it tomorrow.”<br>
+And still, in the deep foolishness of the parasitized,<br>
+I beg you, in dreams, in sobs and prayers, to stay.<br>
+And still I blame myself for not having fed you enough.<br>
+For not having been many. For not having been another,<br>
+or another, or another, or another.<br>
 
-You, in theory, loved me<br>
-up until the moment I needed love.<br>
-Then, you got tired.<br>
-
-And still —<br>
-in the deep foolishness of the parasitized —<br>
-I beg you in dreams to stay.<br>
-
-Still,<br>
-I blame myself<br>
-for not having entertained you enough.<br>
-For not being many.<br>
-For not being someone else,<br>
-or else,<br>
-or else,<br>
-or else.<br>
-
-And maybe that’s my illness.<br>
+And perhaps that is my illness.<br>
 Or just another Tuesday<br>
-in which I dream again<br>
+when I dreamed again<br>
 of my favorite parasite.
 
 --
