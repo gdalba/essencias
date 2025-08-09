@@ -20,13 +20,13 @@ The pill bottles,<br>
 all counted, all lined up,<br>
 a private exercise of alchemy.<br>
 
-In the alchemy of depression,<br>
+In this alchemy of depression,<br>
 I forged the antidote to suffering.<br>
 Ah, such useless wisdom.<br>
 
 I need help. Now.<br>
 God, the water is so cold. Why?<br>
-I opened the faucet in the fever of midday sun.<br>
+I opened the faucet in absolute burning.<br>
 Could it be I’m already dead<br>
 and this is nothing more<br>
 than a bureaucratic formality?<br>
@@ -68,4 +68,4 @@ my pathetic incompetence<br>
 once again.
 
 --
-Louise Vernet, the Artist’s Wife, on her Deathbed", circa 1846. Painted by Paul Hippolyte Delaroch.
+"Louise Vernet, the Artist’s Wife, on her Deathbed", circa 1846. Painted by Paul Hippolyte Delaroch.

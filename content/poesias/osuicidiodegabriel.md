@@ -18,7 +18,7 @@ que a tragédia se digne a acontecer.<br>
 
 As garrafas de comprimidos,<br>
 todas contadas, todas alinhadas,<br>
-um inventário de farmácia particular.<br>
+um exercício de alquimia.<br>
 
 Na alquimia da depressão,<br>
 fiz o antídoto do sofrimento.<br>
@@ -26,7 +26,7 @@ Ai, quanta sabedoria inútil.<br>
 
 Preciso, imediatamente, de socorro.<br>
 Deus, a água está tão fria. Por quê?<br>
-Abri a torneira no fervor do sol do meio-dia.<br>
+Abri a torneira no fervor mais escaldante.<br>
 Seria verdade que já estou morto<br>
 e isto é só uma formalidade burocrática?<br>
 
@@ -62,10 +62,9 @@ da minha existência burra, incompetente.<br>
 
 Mas é minha.<br>
 
-Então vomito tudo e consagro,<br>
-como quem sela um decreto inútil,<br>
+Então vomito tudo e consagro<br>
 minha patética incompetência<br>
 mais uma vez.
 
 --
-Louise Vernet, a esposa do artista, em seu leito de morte", cerca de 1846. Pintado por Paul Hippolyte Delaroche.
+"Louise Vernet, a esposa do artista, em seu leito de morte", cerca de 1846. Pintado por Paul Hippolyte Delaroche.
