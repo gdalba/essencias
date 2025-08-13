@@ -18,7 +18,7 @@ doze estações passando no mesmo instante,<br>
 doze manifestações do dia doze.<br>
 
 Doze comemorações,<br>
-uma especial no mês doze.<br>
+uma especial no mês doze<br>
 menos dois. Doze dias depois<br>
 menos um, você faz aniversário.<br>
 
