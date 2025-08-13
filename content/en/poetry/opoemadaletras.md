@@ -14,13 +14,13 @@ slips?<br>
 She sobs? She silences?<br>
 She sighs some sorrow<br>
 somewhere,<br>
-sans shadow?<br>
+shadowless?<br>
 
 Soft stories surface:<br>
 Sara suffered,<br>
 slipped,<br>
 survived <br>
-sans scars, somehow.<br>
+scarless, somehow.<br>
 
 Still,<br>
 sweet sweat,<br>
@@ -30,14 +30,14 @@ sans summoning.<br>
 
 So sure:<br>
 Sara survives<br>
-sans sleep, supplication, shock.<br>
+sleepless, supplicating, shocked.<br>
 
 Somehow,<br>
-someone<br>
+Sara<br>
 stays submissive,<br>
-so solemn sips silence.<br>
+so solemnly she sips silence.<br>
 
-Sans sun, structure, sense —<br>
+Sunless, structure, sense —<br>
 simply smoke,<br>
 sentimental scrap,<br>
 sans substance.<br>
@@ -47,15 +47,15 @@ stay still.<br>
 See:<br>
 sealed secret<br>
 stashed<br>
-‘neath seven<br>
+surrounding seven<br>
 sentimental<br>
 seals.<br>
 
 Suffering,<br>
 still soaked,<br>
 seeking some shape —<br>
-sorrow? shadow?<br>
-sewer’s soul?<br>
+sorrow? Shadow?<br>
+Sewer’s soul?<br>
 
 Suppose Sara senses<br>
 such sorrow?<br>
@@ -80,9 +80,8 @@ So sure:<br>
 Sara<br>
 sails safely<br>
 still.<br>
-Sans sorrow.<br>
 
-Someone<br>
+Sara<br>
 sits,<br>
 silent,<br>
 stuck,<br>

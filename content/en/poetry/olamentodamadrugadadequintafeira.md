@@ -34,7 +34,7 @@ and all else that the tears<br>
 no longer allow me to remember.<br>
 
 What a lament!<br>
-She tears apart the factory of my existence<br>
+She tears apart the fabric of my existence<br>
 when I least need it,<br>
 when I most need it,<br>
 when I am nothing,<br>
