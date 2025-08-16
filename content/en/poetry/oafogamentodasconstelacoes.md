@@ -1,5 +1,5 @@
 ---
-title: "The Drawning of the Constellations"
+title: "The Drowning of the Constellations"
 date: 2025-08-09
 draft: false
 tags: ["poetry", "depression", "suicide", "surrealism"]
