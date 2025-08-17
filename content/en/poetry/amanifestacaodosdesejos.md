@@ -3,7 +3,7 @@ title: "The Manifestation of Desires"
 date: 2025-08-17
 draft: false
 tags: ["poetry", "tears", "longing", "dream", "love"]
-summary: "Ah, minha amada, como chorei nesse abraço!"
+summary: "Ah, my beloved, how I wept in that embrace!"
 cover:
     image: "Screenshot2025-08-17083927.png"
 ---
