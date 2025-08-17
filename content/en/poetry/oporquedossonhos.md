@@ -3,7 +3,7 @@ title: "Why the Dreams?"
 date: 2025-08-17
 draft: false
 tags: ["poetry", "tears", "longing", "dream", "love"]
-summary: "A verdade é que te amo, e sempre vou te amar."
+summary: "The truth is I love you, and I always will."
 cover:
     image: "533159427_1312149400921824_4483287144255986348_n.jpg"
 ---
