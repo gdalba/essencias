@@ -1,9 +1,9 @@
 ---
-title: "Para amar, primeiro"
-date: 2025-08-28
+title: "To love, first"
+date: 2025-08-29
 draft: false
 tags: ["poetry", "longing","love"]
-summary: "Para amar, primeiro é preciso nascer numa esquina onde o tempo se distrai..."
+summary: "To love, first one must be born on a corner where time forgets itself,..."
 cover:
     image: "536761029_1326910842130570_8474179686646108581_n.jpg"
 ---
