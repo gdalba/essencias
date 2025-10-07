@@ -1,5 +1,5 @@
 ---
-title: "O último ato de amor"
+title: "O Último ato de amor"
 date: 2025-09-06
 draft: false
 tags: ["poesia"]
