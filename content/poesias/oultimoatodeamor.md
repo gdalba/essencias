@@ -1,6 +1,6 @@
 ---
 title: "O Último ato de amor"
-date: 2025-09-06
+date: 2025-10-07
 draft: false
 tags: ["poesia"]
 summary: "Foi nas gotículas de amor, caindo, uma de cada olho"

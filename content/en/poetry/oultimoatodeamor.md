@@ -1,6 +1,6 @@
 ---
 title: "The Last Act of Love"
-date: 2025-09-06
+date: 2025-10-07
 draft: false
 tags: ["poetry"]
 summary: "It was in the droplets of love, falling, one from each eye."
