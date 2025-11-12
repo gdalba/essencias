@@ -9,11 +9,7 @@ cover:
 ---
 
 Para amar, primeiro<br>
-é preciso nascer<br>
-numa esquina onde o tempo se distrai,<br>
-onde o cosmos acende um fósforo<br>
-e deixa cair no chão etéreo<br>
-dos cristais que manifestam você.<br>
+é preciso nascer.<br>
 
 Depois, é preciso que tudo concorde:<br>
 os passos do seu pai,<br>
@@ -34,8 +30,7 @@ ao vento que me soprou até aqui.<br>
 E antes dos átomos,<br>
 antes das galáxias,<br>
 antes do vento,<br>
-agradeço a esse mistério sem nome<br>
-que os crentes chamam Deus.<br>
+agradeço a Deus.<br>
 
 Amar você<br>
 é fazer das palavras<br>

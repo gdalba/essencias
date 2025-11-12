@@ -13,7 +13,7 @@ Let other hearts be born,<br>
 running — but running from what? From whom?<br>
 Where do the runaway hearts go?<br>
 Do they fall into São Paulo’s gutters?<br>
-Do they turn into skewers on Beijing’s corners?<br>
+Do they turn into skeletons on Beijing’s corners?<br>
 Or do they crash into others,<br>
 and in the magic blink of things,<br>
 become happy?<br>

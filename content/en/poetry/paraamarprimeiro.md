@@ -9,11 +9,7 @@ cover:
 ---
 
 To love, first<br>
-one must be born<br>
-on a corner where time forgets itself,<br>
-where the cosmos strikes a match<br>
-and lets it fall upon the ethereal ground<br>
-of crystals that conjure you.<br>
+one must be born.<br>
 
 Then, everything must conspire:<br>
 the footsteps of your father,<br>
@@ -26,16 +22,15 @@ with its chaotic punctuality,<br>
 delivered me to you.<br>
 
 So, to love,<br>
-it is not enough to thank mere chance.<br>
 I thank the first atom<br>
 that knew how to hold itself together,<br>
-the ancient silence of galaxies,<br>
-the wind that carried me here.<br>
+the whispering hum of galaxies,<br>
+the wind that carried your voice to my ears.<br>
+
 And before atoms,<br>
 before galaxies,<br>
 before the wind,<br>
-I thank that nameless mystery<br>
-believers call God.<br>
+I thank God.<br>
 
 To love you<br>
 is to turn words<br>

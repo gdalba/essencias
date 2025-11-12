@@ -19,16 +19,13 @@ of halted hours.<br>
 She is gone.<br>
 And, heaven forgive me,<br>
 I wish it were death<br>
-that took her from me,<br>
-not this nameless absence.<br>
-What was once eternal<br>
-crumbled into dust.<br>
+that took her from me.<br>
 
 Coffins are carried on buses and planes,<br>
 yet in Xi’an life never paused.<br>
 The flowers I planted died unnoticed.<br>
 And those who see me<br>
-offer condolences too heavy for their mouths.<br>
+offer their deepest condolences.<br>
 
 Extinguish the stars from the night,<br>
 lock the moon in her stone chest,<br>
@@ -45,7 +42,7 @@ the organs follow, one by one.<br>
 
 Yesterday it was the liver.<br>
 The day before, the left lung.<br>
-The right one shall follow.<br>
+The right one soon shall follow.<br>
 The brain already vegetates.<br>
 And the heart, last sentinel,<br>
 watches everything until the end,<br>

@@ -12,7 +12,7 @@ juntem todos e depois os queimem,<br>
 deixe que nasçam outros tantos corações<br>
 a correrem, mas correrem de que? De quem?<br>
 Onde vão os corações fujões? Caem nas sarjetas<br>
-de São Paulo? Viram espetinhos nas esquinas de Beijing?<br>
+de São Paulo? Viram esqueletos nas esquinas de Beijing?<br>
 Ou trombam com outros corações e, no piscar mágico das coisas,<br>
 tornam-se feliz?<br>
 

@@ -21,8 +21,6 @@ E, que me perdoem os céus,<br>
 eu quisera que fosse a morte<br>
 a levá-la de mim,<br>
 não este afastamento sem nome.<br>
-Aquilo que era eterno<br>
-desfez-se em pó.<br>
 
 Carregam-se caixões em ônibus e aviões,<br>
 mas em Xi’an a vida não suspendeu o passo.<br>
