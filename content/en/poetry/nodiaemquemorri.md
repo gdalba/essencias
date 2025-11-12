@@ -3,7 +3,7 @@ title: "On the Day I died"
 date: 2025-11-11
 draft: false
 tags: ["poesia"]
-summary: "E meus olhos derretem por cima de espelhos onde tu ainda me beijas — eternamente."
+summary: "I watch you, one last time."
 cover:
     image: "1671665086976.png"
 ---
