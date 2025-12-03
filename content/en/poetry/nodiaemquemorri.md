@@ -2,7 +2,7 @@
 title: "On the Day I died"
 date: 2025-11-11
 draft: false
-tags: ["poesia"]
+tags: ["poetry"]
 summary: "I watch you, one last time."
 cover:
     image: "1671665086976.png"
