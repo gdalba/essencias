@@ -2,8 +2,10 @@
 title: "To my River"
 date: 2025-12-02
 draft: false
-tags: ["poesia"]
+tags: ["poetry"]
 summary: "You became a river outright"
+cover:
+    image: "594151798_10162323627550745_1821169168571735720_n.jpg"
 ---
 I dreamed we were showering together,<br>
 and you were so beautiful I stopped just to admire you.<br>

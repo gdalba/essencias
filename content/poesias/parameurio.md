@@ -4,6 +4,8 @@ date: 2025-12-02
 draft: false
 tags: ["poesia"]
 summary: "Eras propriamente um rio confluindo"
+cover:
+    image: "594151798_10162323627550745_1821169168571735720_n.jpg"
 ---
 Sonhei que tomávamos um banho,<br>
 e eras tão linda que parei para te admirar.<br>
