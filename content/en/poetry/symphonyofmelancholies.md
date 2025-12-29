@@ -3,7 +3,7 @@ title: "Symphony of Melancholies"
 date: 2025-12-20
 draft: false
 tags: ["poetry"]
-summary: "nd let silence finish this symphony of melancholies."
+summary: "And let silence finish this symphony of melancholies."
 cover:
     image: "4521761-HSC00002-8.jpg"
 ---
